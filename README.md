@@ -1,4 +1,8 @@
-### Hi there 👋
+# Maurício Meneghini Fauth
+
+Hi, I'm Maurício (he/him), a PHP developer and member of the [phpMyAdmin](https://github.com/phpmyadmin) development team.
+
+- Twitter: [@mauriciofauth](https://twitter.com/mauriciofauth)
 
 <!--
 **mauriciofauth/mauriciofauth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
