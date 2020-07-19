@@ -1,6 +1,6 @@
-# Maurício Meneghini Fauth
+# Maurício Meneghini Fauth 🐘⛵
 
-Hi, I'm Maurício (he/him), a PHP developer and member of the [phpMyAdmin](https://github.com/phpmyadmin) development team.
+Hi, I'm Maurício (he/him), a PHP developer and member of the [phpMyAdmin](https://www.phpmyadmin.net/team/) development team.
 
 - Twitter: [@mauriciofauth](https://twitter.com/mauriciofauth)
 
