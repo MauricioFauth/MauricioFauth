@@ -6,7 +6,6 @@
 Hi, I'm Maurício (he/him), a PHP developer and member of the [phpMyAdmin development team](https://www.phpmyadmin.net/team/).
 
 - Mastodon: [@mauriciofauth@phpc.social](https://phpc.social/@mauriciofauth)
-- Twitter: [@MauricioFauth](https://twitter.com/MauricioFauth)
 
 <!--
 **mauriciofauth/mauriciofauth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
