@@ -26,11 +26,11 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 🔨 My recent Pull Requests
 
+- [Add phpstan/phpstan-deprecation-rules package](https://github.com/phpmyadmin/phpmyadmin/pull/19310) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (today)
 - [Check for requirements before creating a separate process](https://github.com/sebastianbergmann/phpunit/pull/5969) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (4 days ago)
 - [Skip data provider build when requirements are not satisfied](https://github.com/sebastianbergmann/phpunit/pull/5957) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
 - [Move myphpnet_* functions to the UserPreferences class](https://github.com/php/web-php/pull/1075) on [php/web-php](https://github.com/php/web-php) (1 week ago)
 - [Replace MYPHPNET global var with the UserPreferences class](https://github.com/php/web-php/pull/1071) on [php/web-php](https://github.com/php/web-php) (2 weeks ago)
-- [Add support for PHPUnit 11](https://github.com/twigphp/Twig/pull/4317) on [twigphp/Twig](https://github.com/twigphp/Twig) (2 weeks ago)
 
 ---
 
