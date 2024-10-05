@@ -36,7 +36,7 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.3.6](https://github.com/sebastianbergmann/phpunit/releases/tag/11.3.6), 2 weeks ago) - The PHP Unit Testing framework.
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.4.0](https://github.com/sebastianbergmann/phpunit/releases/tag/11.4.0), today) - The PHP Unit Testing framework.
 - [phpmyadmin/twig-i18n-extension](https://github.com/phpmyadmin/twig-i18n-extension) ([4.1.3](https://github.com/phpmyadmin/twig-i18n-extension/releases/tag/4.1.3), 3 weeks ago) - The phpMyAdmin project&#39;s fork of the Twig i18n extension
 - [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) ([5.10.0](https://github.com/phpmyadmin/sql-parser/releases/tag/5.10.0), 1 month ago) - A validating SQL lexer and parser with a focus on MySQL dialect.
 - [laminas/laminas-continuous-integration-action](https://github.com/laminas/laminas-continuous-integration-action) ([1.40.0](https://github.com/laminas/laminas-continuous-integration-action/releases/tag/1.40.0), 2 months ago) - GitHub Action for running a QA check
