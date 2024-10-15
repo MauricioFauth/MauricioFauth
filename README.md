@@ -26,11 +26,11 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 🔨 My recent Pull Requests
 
+- [Suppress deprecation message of E_STRICT constant](https://github.com/phpmyadmin/phpmyadmin/pull/19321) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (today)
 - [Call PHPUnit static methods using static calls ](https://github.com/phpmyadmin/phpmyadmin/pull/19317) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (3 days ago)
 - [Add phpstan/phpstan-deprecation-rules package](https://github.com/phpmyadmin/phpmyadmin/pull/19310) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (2 weeks ago)
 - [Check for requirements before creating a separate process](https://github.com/sebastianbergmann/phpunit/pull/5969) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 weeks ago)
 - [Skip data provider build when requirements are not satisfied](https://github.com/sebastianbergmann/phpunit/pull/5957) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (3 weeks ago)
-- [Move myphpnet_* functions to the UserPreferences class](https://github.com/php/web-php/pull/1075) on [php/web-php](https://github.com/php/web-php) (3 weeks ago)
 
 ---
 
