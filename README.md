@@ -11,10 +11,10 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 👷 Check out what I'm currently working on
 
-- [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB (today)
-- [phpmyadmin/shapefile](https://github.com/phpmyadmin/shapefile) - ESRI ShapeFile library for PHP (3 days ago)
-- [phpmyadmin/history](https://github.com/phpmyadmin/history) - Historical data (4 days ago)
-- [phpmyadmin/composer](https://github.com/phpmyadmin/composer) - Read only composer repository for phpMyAdmin (5 days ago)
+- [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB (1 day ago)
+- [phpmyadmin/shapefile](https://github.com/phpmyadmin/shapefile) - ESRI ShapeFile library for PHP (4 days ago)
+- [phpmyadmin/history](https://github.com/phpmyadmin/history) - Historical data (5 days ago)
+- [phpmyadmin/composer](https://github.com/phpmyadmin/composer) - Read only composer repository for phpMyAdmin (6 days ago)
 - [phpmyadmin/twig-i18n-extension](https://github.com/phpmyadmin/twig-i18n-extension) - The phpMyAdmin project&#39;s fork of the Twig i18n extension (1 week ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (2 weeks ago)
 - [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) - A validating SQL lexer and parser with a focus on MySQL dialect. (3 weeks ago)
@@ -26,8 +26,8 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 🔨 My recent Pull Requests
 
-- [Suppress deprecation message of E_STRICT constant](https://github.com/phpmyadmin/phpmyadmin/pull/19321) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (today)
-- [Call PHPUnit static methods using static calls ](https://github.com/phpmyadmin/phpmyadmin/pull/19317) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (3 days ago)
+- [Suppress deprecation message of E_STRICT constant](https://github.com/phpmyadmin/phpmyadmin/pull/19321) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 day ago)
+- [Call PHPUnit static methods using static calls ](https://github.com/phpmyadmin/phpmyadmin/pull/19317) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (4 days ago)
 - [Add phpstan/phpstan-deprecation-rules package](https://github.com/phpmyadmin/phpmyadmin/pull/19310) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (2 weeks ago)
 - [Check for requirements before creating a separate process](https://github.com/sebastianbergmann/phpunit/pull/5969) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 weeks ago)
 - [Skip data provider build when requirements are not satisfied](https://github.com/sebastianbergmann/phpunit/pull/5957) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (3 weeks ago)
