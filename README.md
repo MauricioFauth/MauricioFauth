@@ -26,11 +26,11 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 🔨 My recent Pull Requests
 
+- [[PHP 8.4] Add new Sodium functions and constants](https://github.com/php/doc-en/pull/3878) on [php/doc-en](https://github.com/php/doc-en) (today)
 - [Suppress deprecation message of E_STRICT constant](https://github.com/phpmyadmin/phpmyadmin/pull/19321) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 day ago)
 - [Call PHPUnit static methods using static calls ](https://github.com/phpmyadmin/phpmyadmin/pull/19317) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (4 days ago)
 - [Add phpstan/phpstan-deprecation-rules package](https://github.com/phpmyadmin/phpmyadmin/pull/19310) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (2 weeks ago)
 - [Check for requirements before creating a separate process](https://github.com/sebastianbergmann/phpunit/pull/5969) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 weeks ago)
-- [Skip data provider build when requirements are not satisfied](https://github.com/sebastianbergmann/phpunit/pull/5957) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (3 weeks ago)
 
 ---
 
