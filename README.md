@@ -26,11 +26,11 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 🔨 My recent Pull Requests
 
+- [Fix issue when updating privileges for various databases](https://github.com/phpmyadmin/phpmyadmin/pull/19362) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (today)
 - [Refactor LanguageManager class](https://github.com/phpmyadmin/phpmyadmin/pull/19356) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (2 days ago)
 - [Create I18n\TextDirection enum](https://github.com/phpmyadmin/phpmyadmin/pull/19348) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (5 days ago)
 - [Remove alternative executable files](https://github.com/phpmyadmin/sql-parser/pull/594) on [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) (1 week ago)
 - [Replace replication statements for new terminology](https://github.com/phpmyadmin/phpmyadmin/pull/19334) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
-- [[PHP 8.4] Add new Sodium functions and constants](https://github.com/php/doc-en/pull/3878) on [php/doc-en](https://github.com/php/doc-en) (2 weeks ago)
 
 ---
 
