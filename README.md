@@ -26,11 +26,11 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 🔨 My recent Pull Requests
 
+- [Replace languages.inc globals with I18n\Languages consts](https://github.com/php/web-php/pull/1121) on [php/web-php](https://github.com/php/web-php) (today)
 - [Remove dependency on zumba/json-serializer](https://github.com/phpmyadmin/sql-parser/pull/598) on [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) (today)
 - [Fix issue when updating privileges for various databases](https://github.com/phpmyadmin/phpmyadmin/pull/19362) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (5 days ago)
 - [Refactor LanguageManager class](https://github.com/phpmyadmin/phpmyadmin/pull/19356) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
 - [Create I18n\TextDirection enum](https://github.com/phpmyadmin/phpmyadmin/pull/19348) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
-- [Remove alternative executable files](https://github.com/phpmyadmin/sql-parser/pull/594) on [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) (2 weeks ago)
 
 ---
 
