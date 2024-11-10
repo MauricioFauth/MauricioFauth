@@ -11,13 +11,13 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 👷 Check out what I'm currently working on
 
-- [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB (today)
-- [phpmyadmin/composer](https://github.com/phpmyadmin/composer) - Read only composer repository for phpMyAdmin (4 days ago)
+- [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB (1 day ago)
+- [phpmyadmin/composer](https://github.com/phpmyadmin/composer) - Read only composer repository for phpMyAdmin (5 days ago)
 - [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) - A validating SQL lexer and parser with a focus on MySQL dialect. (2 weeks ago)
 - [tecnickcom/TCPDF](https://github.com/tecnickcom/TCPDF) - Official clone of PHP library to generate PDF documents and barcodes (2 weeks ago)
 - [phpmyadmin/shapefile](https://github.com/phpmyadmin/shapefile) - ESRI ShapeFile library for PHP (2 weeks ago)
 - [php/doc-en](https://github.com/php/doc-en) - English PHP documentation (2 weeks ago)
-- [phpmyadmin/history](https://github.com/phpmyadmin/history) - Historical data (4 weeks ago)
+- [phpmyadmin/history](https://github.com/phpmyadmin/history) - Historical data (1 month ago)
 - [phpmyadmin/twig-i18n-extension](https://github.com/phpmyadmin/twig-i18n-extension) - The phpMyAdmin project&#39;s fork of the Twig i18n extension (1 month ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (1 month ago)
 - [php/web-php](https://github.com/php/web-php) - The www.php.net site (1 month ago)
@@ -26,8 +26,8 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 🔨 My recent Pull Requests
 
-- [Fix issue when updating privileges for various databases](https://github.com/phpmyadmin/phpmyadmin/pull/19362) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (4 days ago)
-- [Refactor LanguageManager class](https://github.com/phpmyadmin/phpmyadmin/pull/19356) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (6 days ago)
+- [Fix issue when updating privileges for various databases](https://github.com/phpmyadmin/phpmyadmin/pull/19362) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (5 days ago)
+- [Refactor LanguageManager class](https://github.com/phpmyadmin/phpmyadmin/pull/19356) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
 - [Create I18n\TextDirection enum](https://github.com/phpmyadmin/phpmyadmin/pull/19348) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
 - [Remove alternative executable files](https://github.com/phpmyadmin/sql-parser/pull/594) on [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) (2 weeks ago)
 - [Replace replication statements for new terminology](https://github.com/phpmyadmin/phpmyadmin/pull/19334) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (2 weeks ago)
