@@ -26,11 +26,11 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 🔨 My recent Pull Requests
 
+- [Add Translator::setLocale() method](https://github.com/phpmyadmin/sql-parser/pull/599) on [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) (today)
 - [Bump PHP minimum version to 7.2](https://github.com/phpmyadmin/motranslator/pull/49) on [phpmyadmin/motranslator](https://github.com/phpmyadmin/motranslator) (today)
 - [Bump PHPStan version to ^2.0](https://github.com/phpmyadmin/phpmyadmin/pull/19391) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (today)
 - [Replace languages.inc globals with I18n\Languages consts](https://github.com/php/web-php/pull/1121) on [php/web-php](https://github.com/php/web-php) (5 days ago)
 - [Remove dependency on zumba/json-serializer](https://github.com/phpmyadmin/sql-parser/pull/598) on [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) (5 days ago)
-- [Fix issue when updating privileges for various databases](https://github.com/phpmyadmin/phpmyadmin/pull/19362) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
 
 ---
 
