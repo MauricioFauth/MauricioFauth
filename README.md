@@ -11,9 +11,9 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 👷 Check out what I'm currently working on
 
-- [php/web-php](https://github.com/php/web-php) - The www.php.net site (4 days ago)
-- [phpmyadmin/composer](https://github.com/phpmyadmin/composer) - Read only composer repository for phpMyAdmin (4 days ago)
-- [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB (4 days ago)
+- [php/web-php](https://github.com/php/web-php) - The www.php.net site (5 days ago)
+- [phpmyadmin/composer](https://github.com/phpmyadmin/composer) - Read only composer repository for phpMyAdmin (5 days ago)
+- [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB (5 days ago)
 - [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) - A validating SQL lexer and parser with a focus on MySQL dialect. (1 week ago)
 - [tecnickcom/TCPDF](https://github.com/tecnickcom/TCPDF) - Official clone of PHP library to generate PDF documents and barcodes (3 weeks ago)
 - [phpmyadmin/shapefile](https://github.com/phpmyadmin/shapefile) - ESRI ShapeFile library for PHP (3 weeks ago)
@@ -26,9 +26,9 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 🔨 My recent Pull Requests
 
-- [Add Translator::setLocale() method](https://github.com/phpmyadmin/sql-parser/pull/599) on [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) (3 days ago)
-- [Bump PHP minimum version to 7.2](https://github.com/phpmyadmin/motranslator/pull/49) on [phpmyadmin/motranslator](https://github.com/phpmyadmin/motranslator) (3 days ago)
-- [Bump PHPStan version to ^2.0](https://github.com/phpmyadmin/phpmyadmin/pull/19391) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (3 days ago)
+- [Add Translator::setLocale() method](https://github.com/phpmyadmin/sql-parser/pull/599) on [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) (4 days ago)
+- [Bump PHP minimum version to 7.2](https://github.com/phpmyadmin/motranslator/pull/49) on [phpmyadmin/motranslator](https://github.com/phpmyadmin/motranslator) (4 days ago)
+- [Bump PHPStan version to ^2.0](https://github.com/phpmyadmin/phpmyadmin/pull/19391) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (4 days ago)
 - [Replace languages.inc globals with I18n\Languages consts](https://github.com/php/web-php/pull/1121) on [php/web-php](https://github.com/php/web-php) (1 week ago)
 - [Remove dependency on zumba/json-serializer](https://github.com/phpmyadmin/sql-parser/pull/598) on [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) (1 week ago)
 
