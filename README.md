@@ -26,11 +26,11 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 🔨 My recent Pull Requests
 
+- [Add PHPStan strict rules](https://github.com/phpmyadmin/sql-parser/pull/600) on [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) (today)
 - [Add PHPStan strict rules](https://github.com/phpmyadmin/shapefile/pull/40) on [phpmyadmin/shapefile](https://github.com/phpmyadmin/shapefile) (today)
 - [Bump PHP minimum version to 7.2.0](https://github.com/phpmyadmin/shapefile/pull/39) on [phpmyadmin/shapefile](https://github.com/phpmyadmin/shapefile) (today)
 - [Add Translator::setLocale() method](https://github.com/phpmyadmin/sql-parser/pull/599) on [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) (4 days ago)
 - [Bump PHP minimum version to 7.2](https://github.com/phpmyadmin/motranslator/pull/49) on [phpmyadmin/motranslator](https://github.com/phpmyadmin/motranslator) (4 days ago)
-- [Bump PHPStan version to ^2.0](https://github.com/phpmyadmin/phpmyadmin/pull/19391) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (4 days ago)
 
 ---
 
