@@ -26,11 +26,11 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 🔨 My recent Pull Requests
 
+- [Prefer PHPUnit self calls instead of $this](https://github.com/phpmyadmin/motranslator/pull/51) on [phpmyadmin/motranslator](https://github.com/phpmyadmin/motranslator) (today)
 - [Add PHPStan strict rules](https://github.com/phpmyadmin/motranslator/pull/50) on [phpmyadmin/motranslator](https://github.com/phpmyadmin/motranslator) (1 day ago)
 - [Add PHPStan strict rules](https://github.com/phpmyadmin/sql-parser/pull/600) on [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) (1 day ago)
 - [Add PHPStan strict rules](https://github.com/phpmyadmin/shapefile/pull/40) on [phpmyadmin/shapefile](https://github.com/phpmyadmin/shapefile) (1 day ago)
 - [Bump PHP minimum version to 7.2.0](https://github.com/phpmyadmin/shapefile/pull/39) on [phpmyadmin/shapefile](https://github.com/phpmyadmin/shapefile) (1 day ago)
-- [Add Translator::setLocale() method](https://github.com/phpmyadmin/sql-parser/pull/599) on [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) (5 days ago)
 
 ---
 
