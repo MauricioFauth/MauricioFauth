@@ -17,7 +17,7 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 - [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) - A validating SQL lexer and parser with a focus on MySQL dialect. (1 week ago)
 - [tecnickcom/TCPDF](https://github.com/tecnickcom/TCPDF) - Official clone of PHP library to generate PDF documents and barcodes (3 weeks ago)
 - [phpmyadmin/shapefile](https://github.com/phpmyadmin/shapefile) - ESRI ShapeFile library for PHP (4 weeks ago)
-- [php/doc-en](https://github.com/php/doc-en) - English PHP documentation (4 weeks ago)
+- [php/doc-en](https://github.com/php/doc-en) - English PHP documentation (1 month ago)
 - [phpmyadmin/history](https://github.com/phpmyadmin/history) - Historical data (1 month ago)
 - [phpmyadmin/twig-i18n-extension](https://github.com/phpmyadmin/twig-i18n-extension) - The phpMyAdmin project&#39;s fork of the Twig i18n extension (1 month ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (1 month ago)
@@ -26,11 +26,11 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 🔨 My recent Pull Requests
 
-- [Prefer PHPUnit self calls instead of $this](https://github.com/phpmyadmin/motranslator/pull/51) on [phpmyadmin/motranslator](https://github.com/phpmyadmin/motranslator) (1 day ago)
-- [Add PHPStan strict rules](https://github.com/phpmyadmin/motranslator/pull/50) on [phpmyadmin/motranslator](https://github.com/phpmyadmin/motranslator) (2 days ago)
-- [Add PHPStan strict rules](https://github.com/phpmyadmin/sql-parser/pull/600) on [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) (2 days ago)
-- [Add PHPStan strict rules](https://github.com/phpmyadmin/shapefile/pull/40) on [phpmyadmin/shapefile](https://github.com/phpmyadmin/shapefile) (2 days ago)
-- [Bump PHP minimum version to 7.2.0](https://github.com/phpmyadmin/shapefile/pull/39) on [phpmyadmin/shapefile](https://github.com/phpmyadmin/shapefile) (2 days ago)
+- [Prefer PHPUnit self calls instead of $this](https://github.com/phpmyadmin/motranslator/pull/51) on [phpmyadmin/motranslator](https://github.com/phpmyadmin/motranslator) (2 days ago)
+- [Add PHPStan strict rules](https://github.com/phpmyadmin/motranslator/pull/50) on [phpmyadmin/motranslator](https://github.com/phpmyadmin/motranslator) (3 days ago)
+- [Add PHPStan strict rules](https://github.com/phpmyadmin/sql-parser/pull/600) on [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) (3 days ago)
+- [Add PHPStan strict rules](https://github.com/phpmyadmin/shapefile/pull/40) on [phpmyadmin/shapefile](https://github.com/phpmyadmin/shapefile) (3 days ago)
+- [Bump PHP minimum version to 7.2.0](https://github.com/phpmyadmin/shapefile/pull/39) on [phpmyadmin/shapefile](https://github.com/phpmyadmin/shapefile) (3 days ago)
 
 ---
 
