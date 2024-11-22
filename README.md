@@ -26,11 +26,11 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 🔨 My recent Pull Requests
 
+- [Do not allow PHP 8.4 builds to fail](https://github.com/phpmyadmin/motranslator/pull/52) on [phpmyadmin/motranslator](https://github.com/phpmyadmin/motranslator) (today)
+- [Add PHP 8.4 to the CI jobs](https://github.com/phpmyadmin/phpmyadmin/pull/19405) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (today)
 - [Prefer PHPUnit self calls instead of $this](https://github.com/phpmyadmin/motranslator/pull/51) on [phpmyadmin/motranslator](https://github.com/phpmyadmin/motranslator) (2 days ago)
 - [Add PHPStan strict rules](https://github.com/phpmyadmin/motranslator/pull/50) on [phpmyadmin/motranslator](https://github.com/phpmyadmin/motranslator) (3 days ago)
 - [Add PHPStan strict rules](https://github.com/phpmyadmin/sql-parser/pull/600) on [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) (3 days ago)
-- [Add PHPStan strict rules](https://github.com/phpmyadmin/shapefile/pull/40) on [phpmyadmin/shapefile](https://github.com/phpmyadmin/shapefile) (3 days ago)
-- [Bump PHP minimum version to 7.2.0](https://github.com/phpmyadmin/shapefile/pull/39) on [phpmyadmin/shapefile](https://github.com/phpmyadmin/shapefile) (3 days ago)
 
 ---
 
