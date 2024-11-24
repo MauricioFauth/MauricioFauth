@@ -11,11 +11,11 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 👷 Check out what I'm currently working on
 
-- [phpmyadmin/motranslator](https://github.com/phpmyadmin/motranslator) - Translation API for PHP using Gettext MO files (1 day ago)
+- [phpmyadmin/motranslator](https://github.com/phpmyadmin/motranslator) - Translation API for PHP using Gettext MO files (2 days ago)
 - [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB (1 week ago)
 - [phpmyadmin/composer](https://github.com/phpmyadmin/composer) - Read only composer repository for phpMyAdmin (1 week ago)
 - [php/web-php](https://github.com/php/web-php) - The www.php.net site (1 week ago)
-- [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) - A validating SQL lexer and parser with a focus on MySQL dialect. (1 week ago)
+- [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) - A validating SQL lexer and parser with a focus on MySQL dialect. (2 weeks ago)
 - [tecnickcom/TCPDF](https://github.com/tecnickcom/TCPDF) - Official clone of PHP library to generate PDF documents and barcodes (4 weeks ago)
 - [phpmyadmin/shapefile](https://github.com/phpmyadmin/shapefile) - ESRI ShapeFile library for PHP (1 month ago)
 - [php/doc-en](https://github.com/php/doc-en) - English PHP documentation (1 month ago)
@@ -26,17 +26,17 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 🔨 My recent Pull Requests
 
-- [Do not allow PHP 8.4 builds to fail](https://github.com/phpmyadmin/motranslator/pull/52) on [phpmyadmin/motranslator](https://github.com/phpmyadmin/motranslator) (1 day ago)
-- [Add PHP 8.4 to the CI jobs](https://github.com/phpmyadmin/phpmyadmin/pull/19405) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 day ago)
-- [Prefer PHPUnit self calls instead of $this](https://github.com/phpmyadmin/motranslator/pull/51) on [phpmyadmin/motranslator](https://github.com/phpmyadmin/motranslator) (3 days ago)
-- [Add PHPStan strict rules](https://github.com/phpmyadmin/motranslator/pull/50) on [phpmyadmin/motranslator](https://github.com/phpmyadmin/motranslator) (4 days ago)
-- [Add PHPStan strict rules](https://github.com/phpmyadmin/sql-parser/pull/600) on [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) (4 days ago)
+- [Do not allow PHP 8.4 builds to fail](https://github.com/phpmyadmin/motranslator/pull/52) on [phpmyadmin/motranslator](https://github.com/phpmyadmin/motranslator) (2 days ago)
+- [Add PHP 8.4 to the CI jobs](https://github.com/phpmyadmin/phpmyadmin/pull/19405) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (2 days ago)
+- [Prefer PHPUnit self calls instead of $this](https://github.com/phpmyadmin/motranslator/pull/51) on [phpmyadmin/motranslator](https://github.com/phpmyadmin/motranslator) (4 days ago)
+- [Add PHPStan strict rules](https://github.com/phpmyadmin/motranslator/pull/50) on [phpmyadmin/motranslator](https://github.com/phpmyadmin/motranslator) (5 days ago)
+- [Add PHPStan strict rules](https://github.com/phpmyadmin/sql-parser/pull/600) on [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) (5 days ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) ([5.10.1](https://github.com/phpmyadmin/sql-parser/releases/tag/5.10.1), 1 week ago) - A validating SQL lexer and parser with a focus on MySQL dialect.
+- [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) ([5.10.1](https://github.com/phpmyadmin/sql-parser/releases/tag/5.10.1), 2 weeks ago) - A validating SQL lexer and parser with a focus on MySQL dialect.
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.4.3](https://github.com/sebastianbergmann/phpunit/releases/tag/11.4.3), 3 weeks ago) - The PHP Unit Testing framework.
 - [laminas/laminas-continuous-integration-action](https://github.com/laminas/laminas-continuous-integration-action) ([1.40.1](https://github.com/laminas/laminas-continuous-integration-action/releases/tag/1.40.1), 1 month ago) - GitHub Action for running a QA check
 - [phpmyadmin/twig-i18n-extension](https://github.com/phpmyadmin/twig-i18n-extension) ([4.1.3](https://github.com/phpmyadmin/twig-i18n-extension/releases/tag/4.1.3), 2 months ago) - The phpMyAdmin project&#39;s fork of the Twig i18n extension
