@@ -26,11 +26,11 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 🔨 My recent Pull Requests
 
+- [Add support for PHPUnit 11](https://github.com/twigphp/Twig/pull/4477) on [twigphp/Twig](https://github.com/twigphp/Twig) (today)
 - [Do not allow PHP 8.4 builds to fail](https://github.com/phpmyadmin/motranslator/pull/52) on [phpmyadmin/motranslator](https://github.com/phpmyadmin/motranslator) (3 days ago)
 - [Add PHP 8.4 to the CI jobs](https://github.com/phpmyadmin/phpmyadmin/pull/19405) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (3 days ago)
 - [Prefer PHPUnit self calls instead of $this](https://github.com/phpmyadmin/motranslator/pull/51) on [phpmyadmin/motranslator](https://github.com/phpmyadmin/motranslator) (5 days ago)
 - [Add PHPStan strict rules](https://github.com/phpmyadmin/motranslator/pull/50) on [phpmyadmin/motranslator](https://github.com/phpmyadmin/motranslator) (6 days ago)
-- [Add PHPStan strict rules](https://github.com/phpmyadmin/sql-parser/pull/600) on [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) (6 days ago)
 
 ---
 
