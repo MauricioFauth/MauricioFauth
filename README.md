@@ -11,7 +11,7 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 👷 Check out what I'm currently working on
 
-- [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB (1 day ago)
+- [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB (today)
 - [phpmyadmin/composer](https://github.com/phpmyadmin/composer) - Read only composer repository for phpMyAdmin (1 day ago)
 - [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) - A validating SQL lexer and parser with a focus on MySQL dialect. (4 days ago)
 - [phpmyadmin/shapefile](https://github.com/phpmyadmin/shapefile) - ESRI ShapeFile library for PHP (4 days ago)
@@ -26,11 +26,11 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 🔨 My recent Pull Requests
 
+- [Add context files for MySQL 9.1](https://github.com/phpmyadmin/sql-parser/pull/603) on [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) (today)
 - [Fix multi-arch docker builds](https://github.com/phpmyadmin/phpmyadmin/pull/19419) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 day ago)
 - [Fix failing end to end tests](https://github.com/phpmyadmin/phpmyadmin/pull/19417) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (3 days ago)
 - [Add PHPStan stricter rules](https://github.com/phpmyadmin/phpmyadmin/pull/19416) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (3 days ago)
 - [Add support for PHPUnit 11](https://github.com/twigphp/Twig/pull/4477) on [twigphp/Twig](https://github.com/twigphp/Twig) (1 week ago)
-- [Do not allow PHP 8.4 builds to fail](https://github.com/phpmyadmin/motranslator/pull/52) on [phpmyadmin/motranslator](https://github.com/phpmyadmin/motranslator) (1 week ago)
 
 ---
 
