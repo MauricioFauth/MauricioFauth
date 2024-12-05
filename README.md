@@ -12,8 +12,8 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 #### 👷 Check out what I'm currently working on
 
 - [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB (today)
+- [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) - A validating SQL lexer and parser with a focus on MySQL dialect. (today)
 - [phpmyadmin/composer](https://github.com/phpmyadmin/composer) - Read only composer repository for phpMyAdmin (1 day ago)
-- [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) - A validating SQL lexer and parser with a focus on MySQL dialect. (4 days ago)
 - [phpmyadmin/shapefile](https://github.com/phpmyadmin/shapefile) - ESRI ShapeFile library for PHP (4 days ago)
 - [phpmyadmin/motranslator](https://github.com/phpmyadmin/motranslator) - Translation API for PHP using Gettext MO files (1 week ago)
 - [php/web-php](https://github.com/php/web-php) - The www.php.net site (3 weeks ago)
@@ -36,8 +36,8 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) ([5.10.2](https://github.com/phpmyadmin/sql-parser/releases/tag/5.10.2), today) - A validating SQL lexer and parser with a focus on MySQL dialect.
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([9.6.22](https://github.com/sebastianbergmann/phpunit/releases/tag/9.6.22), today) - The PHP Unit Testing framework.
-- [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) ([5.10.1](https://github.com/phpmyadmin/sql-parser/releases/tag/5.10.1), 3 weeks ago) - A validating SQL lexer and parser with a focus on MySQL dialect.
 - [laminas/laminas-continuous-integration-action](https://github.com/laminas/laminas-continuous-integration-action) ([1.40.1](https://github.com/laminas/laminas-continuous-integration-action/releases/tag/1.40.1), 1 month ago) - GitHub Action for running a QA check
 - [phpmyadmin/twig-i18n-extension](https://github.com/phpmyadmin/twig-i18n-extension) ([4.1.3](https://github.com/phpmyadmin/twig-i18n-extension/releases/tag/4.1.3), 2 months ago) - The phpMyAdmin project&#39;s fork of the Twig i18n extension
 - [phpmyadmin/shapefile](https://github.com/phpmyadmin/shapefile) ([3.0.2](https://github.com/phpmyadmin/shapefile/releases/tag/3.0.2), 1 year ago) - ESRI ShapeFile library for PHP
