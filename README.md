@@ -26,11 +26,11 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 🔨 My recent Pull Requests
 
+- [Replace sql_query global var with Current::$sqlQuery](https://github.com/phpmyadmin/phpmyadmin/pull/19438) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (today)
 - [Add context files for MySQL 9.1](https://github.com/phpmyadmin/sql-parser/pull/603) on [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) (4 days ago)
 - [Fix multi-arch docker builds](https://github.com/phpmyadmin/phpmyadmin/pull/19419) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (5 days ago)
 - [Fix failing end to end tests](https://github.com/phpmyadmin/phpmyadmin/pull/19417) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
 - [Add PHPStan stricter rules](https://github.com/phpmyadmin/phpmyadmin/pull/19416) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
-- [Add support for PHPUnit 11](https://github.com/twigphp/Twig/pull/4477) on [twigphp/Twig](https://github.com/twigphp/Twig) (2 weeks ago)
 
 ---
 
