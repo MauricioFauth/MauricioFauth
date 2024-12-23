@@ -26,11 +26,11 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 🔨 My recent Pull Requests
 
+- [Remove user info globals in Server\Privileges class](https://github.com/phpmyadmin/phpmyadmin/pull/19469) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (today)
 - [Remove some global variables from export plugins](https://github.com/phpmyadmin/phpmyadmin/pull/19464) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (3 days ago)
 - [Remove some export plugins global variables](https://github.com/phpmyadmin/phpmyadmin/pull/19451) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (6 days ago)
 - [Add ExportPlugin::setExportOptions() method](https://github.com/phpmyadmin/phpmyadmin/pull/19444) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
 - [Remove the ResponseRenderer::checkParameters() method](https://github.com/phpmyadmin/phpmyadmin/pull/19440) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (2 weeks ago)
-- [Replace sql_query global var with Current::$sqlQuery](https://github.com/phpmyadmin/phpmyadmin/pull/19438) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (2 weeks ago)
 
 ---
 
