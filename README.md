@@ -26,11 +26,11 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 🔨 My recent Pull Requests
 
+- [Remove excel_* and csv_* global variables](https://github.com/phpmyadmin/phpmyadmin/pull/19497) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (today)
 - [Replace lang global var with Current::$lang prop](https://github.com/phpmyadmin/phpmyadmin/pull/19472) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
 - [Replace message global with Current::$message prop](https://github.com/phpmyadmin/phpmyadmin/pull/19471) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
 - [Remove user info globals in Server\Privileges class](https://github.com/phpmyadmin/phpmyadmin/pull/19469) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
 - [Remove some global variables from export plugins](https://github.com/phpmyadmin/phpmyadmin/pull/19464) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (2 weeks ago)
-- [Remove some export plugins global variables](https://github.com/phpmyadmin/phpmyadmin/pull/19451) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (2 weeks ago)
 
 ---
 
