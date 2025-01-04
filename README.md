@@ -11,8 +11,8 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 👷 Check out what I'm currently working on
 
-- [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB (1 day ago)
-- [phpmyadmin/composer](https://github.com/phpmyadmin/composer) - Read only composer repository for phpMyAdmin (1 day ago)
+- [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB (2 days ago)
+- [phpmyadmin/composer](https://github.com/phpmyadmin/composer) - Read only composer repository for phpMyAdmin (2 days ago)
 - [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) - A validating SQL lexer and parser with a focus on MySQL dialect. (3 weeks ago)
 - [phpmyadmin/shapefile](https://github.com/phpmyadmin/shapefile) - ESRI ShapeFile library for PHP (3 weeks ago)
 - [phpmyadmin/motranslator](https://github.com/phpmyadmin/motranslator) - Translation API for PHP using Gettext MO files (1 month ago)
@@ -36,8 +36,8 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.5.2](https://github.com/sebastianbergmann/phpunit/releases/tag/11.5.2), 1 week ago) - The PHP Unit Testing framework.
-- [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) ([5.10.2](https://github.com/phpmyadmin/sql-parser/releases/tag/5.10.2), 4 weeks ago) - A validating SQL lexer and parser with a focus on MySQL dialect.
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.5.2](https://github.com/sebastianbergmann/phpunit/releases/tag/11.5.2), 2 weeks ago) - The PHP Unit Testing framework.
+- [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) ([5.10.2](https://github.com/phpmyadmin/sql-parser/releases/tag/5.10.2), 1 month ago) - A validating SQL lexer and parser with a focus on MySQL dialect.
 - [laminas/laminas-continuous-integration-action](https://github.com/laminas/laminas-continuous-integration-action) ([1.40.1](https://github.com/laminas/laminas-continuous-integration-action/releases/tag/1.40.1), 2 months ago) - GitHub Action for running a QA check
 - [phpmyadmin/twig-i18n-extension](https://github.com/phpmyadmin/twig-i18n-extension) ([4.1.3](https://github.com/phpmyadmin/twig-i18n-extension/releases/tag/4.1.3), 3 months ago) - The phpMyAdmin project&#39;s fork of the Twig i18n extension
 - [phpmyadmin/shapefile](https://github.com/phpmyadmin/shapefile) ([3.0.2](https://github.com/phpmyadmin/shapefile/releases/tag/3.0.2), 1 year ago) - ESRI ShapeFile library for PHP
