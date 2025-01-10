@@ -26,7 +26,7 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 🔨 My recent Pull Requests
 
-- [Remove some global variables](https://github.com/phpmyadmin/phpmyadmin/pull/19503) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (2 days ago)
+- [Remove global variables](https://github.com/phpmyadmin/phpmyadmin/pull/19503) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (2 days ago)
 - [Remove error global variable](https://github.com/phpmyadmin/phpmyadmin/pull/19501) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (3 days ago)
 - [Remove excel_* and csv_* global variables](https://github.com/phpmyadmin/phpmyadmin/pull/19497) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (6 days ago)
 - [Replace lang global var with Current::$lang prop](https://github.com/phpmyadmin/phpmyadmin/pull/19472) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (2 weeks ago)
