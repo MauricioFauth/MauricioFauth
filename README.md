@@ -26,11 +26,11 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 🔨 My recent Pull Requests
 
+- [Replace $GLOBALS[&#39;l&#39;] with TCPDF::setLanguageArray()](https://github.com/phpmyadmin/phpmyadmin/pull/19507) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (today)
 - [Remove global variables](https://github.com/phpmyadmin/phpmyadmin/pull/19503) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (3 days ago)
 - [Remove error global variable](https://github.com/phpmyadmin/phpmyadmin/pull/19501) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (4 days ago)
 - [Remove excel_* and csv_* global variables](https://github.com/phpmyadmin/phpmyadmin/pull/19497) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
 - [Replace lang global var with Current::$lang prop](https://github.com/phpmyadmin/phpmyadmin/pull/19472) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (2 weeks ago)
-- [Replace message global with Current::$message prop](https://github.com/phpmyadmin/phpmyadmin/pull/19471) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (2 weeks ago)
 
 ---
 
