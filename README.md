@@ -26,11 +26,11 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 🔨 My recent Pull Requests
 
+- [Remove plugin global variables](https://github.com/phpmyadmin/phpmyadmin/pull/19519) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (today)
 - [Remove the language_stats global variable](https://github.com/phpmyadmin/phpmyadmin/pull/19516) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (today)
 - [Remove the fields_meta global variable](https://github.com/phpmyadmin/phpmyadmin/pull/19515) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 day ago)
 - [Replace $GLOBALS[&#39;l&#39;] with TCPDF::setLanguageArray()](https://github.com/phpmyadmin/phpmyadmin/pull/19507) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (3 days ago)
 - [Remove global variables](https://github.com/phpmyadmin/phpmyadmin/pull/19503) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (6 days ago)
-- [Remove error global variable](https://github.com/phpmyadmin/phpmyadmin/pull/19501) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
 
 ---
 
