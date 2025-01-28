@@ -36,9 +36,9 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.5.4](https://github.com/sebastianbergmann/phpunit/releases/tag/11.5.4), today) - The PHP Unit Testing framework.
 - [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) ([RELEASE_5_2_2](https://github.com/phpmyadmin/phpmyadmin/releases/tag/RELEASE_5_2_2), 1 week ago) - A web interface for MySQL and MariaDB
 - [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) ([5.10.3](https://github.com/phpmyadmin/sql-parser/releases/tag/5.10.3), 1 week ago) - A validating SQL lexer and parser with a focus on MySQL dialect.
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.5.3](https://github.com/sebastianbergmann/phpunit/releases/tag/11.5.3), 2 weeks ago) - The PHP Unit Testing framework.
 - [phpmyadmin/twig-i18n-extension](https://github.com/phpmyadmin/twig-i18n-extension) ([5.0.0](https://github.com/phpmyadmin/twig-i18n-extension/releases/tag/5.0.0), 2 weeks ago) - The phpMyAdmin project&#39;s fork of the Twig i18n extension
 - [phpmyadmin/shapefile](https://github.com/phpmyadmin/shapefile) ([3.0.2](https://github.com/phpmyadmin/shapefile/releases/tag/3.0.2), 1 year ago) - ESRI ShapeFile library for PHP
 
