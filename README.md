@@ -26,11 +26,11 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 🔨 My recent Pull Requests
 
+- [Upgrade PHPUnit to version 11.5](https://github.com/phpmyadmin/phpmyadmin/pull/19567) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (today)
 - [Replace jQuery UI&#39;s tooltip with Bootstrap&#39;s Tooltip](https://github.com/phpmyadmin/phpmyadmin/pull/19550) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (5 days ago)
 - [Fix missing tooltip in status monitor log table](https://github.com/phpmyadmin/phpmyadmin/pull/19548) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (5 days ago)
 - [Remove plugin global variables](https://github.com/phpmyadmin/phpmyadmin/pull/19519) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (2 weeks ago)
 - [Remove the language_stats global variable](https://github.com/phpmyadmin/phpmyadmin/pull/19516) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (2 weeks ago)
-- [Remove the fields_meta global variable](https://github.com/phpmyadmin/phpmyadmin/pull/19515) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (2 weeks ago)
 
 ---
 
