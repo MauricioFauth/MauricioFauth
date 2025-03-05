@@ -36,7 +36,7 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.0.5](https://github.com/sebastianbergmann/phpunit/releases/tag/12.0.5), 1 week ago) - The PHP Unit Testing framework.
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.0.6](https://github.com/sebastianbergmann/phpunit/releases/tag/12.0.6), today) - The PHP Unit Testing framework.
 - [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) ([5.11.0](https://github.com/phpmyadmin/sql-parser/releases/tag/5.11.0), 1 week ago) - A validating SQL lexer and parser with a focus on MySQL dialect.
 - [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) ([RELEASE_5_2_2](https://github.com/phpmyadmin/phpmyadmin/releases/tag/RELEASE_5_2_2), 1 month ago) - A web interface for MySQL and MariaDB
 - [phpmyadmin/twig-i18n-extension](https://github.com/phpmyadmin/twig-i18n-extension) ([5.0.0](https://github.com/phpmyadmin/twig-i18n-extension/releases/tag/5.0.0), 1 month ago) - The phpMyAdmin project&#39;s fork of the Twig i18n extension
