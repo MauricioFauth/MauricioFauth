@@ -11,8 +11,8 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 👷 Check out what I'm currently working on
 
-- [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB (today)
-- [phpmyadmin/composer](https://github.com/phpmyadmin/composer) - Read only composer repository for phpMyAdmin (today)
+- [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB (1 day ago)
+- [phpmyadmin/composer](https://github.com/phpmyadmin/composer) - Read only composer repository for phpMyAdmin (1 day ago)
 - [phpmyadmin/motranslator](https://github.com/phpmyadmin/motranslator) - Translation API for PHP using Gettext MO files (1 month ago)
 - [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) - A validating SQL lexer and parser with a focus on MySQL dialect. (1 month ago)
 - [phpmyadmin/twig-i18n-extension](https://github.com/phpmyadmin/twig-i18n-extension) - The phpMyAdmin project&#39;s fork of the Twig i18n extension (2 months ago)
@@ -28,8 +28,8 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 - [Update Composer dependencies](https://github.com/phpmyadmin/motranslator/pull/54) on [phpmyadmin/motranslator](https://github.com/phpmyadmin/motranslator) (1 month ago)
 - [Update Composer dependencies](https://github.com/phpmyadmin/phpmyadmin/pull/19607) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 month ago)
-- [Fix PHPUnit 12 deprecations](https://github.com/phpmyadmin/phpmyadmin/pull/19584) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 month ago)
-- [Upgrade PHPStan, Psalm and PHPUnit](https://github.com/phpmyadmin/sql-parser/pull/612) on [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) (1 month ago)
+- [Fix PHPUnit 12 deprecations](https://github.com/phpmyadmin/phpmyadmin/pull/19584) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (2 months ago)
+- [Upgrade PHPStan, Psalm and PHPUnit](https://github.com/phpmyadmin/sql-parser/pull/612) on [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) (2 months ago)
 - [Upgrade PHPUnit to version 11.5](https://github.com/phpmyadmin/phpmyadmin/pull/19567) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (2 months ago)
 
 ---
