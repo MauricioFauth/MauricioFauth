@@ -26,11 +26,11 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 🔨 My recent Pull Requests
 
+- [Add Bootstrap form classes to column definition inputs](https://github.com/phpmyadmin/phpmyadmin/pull/19663) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (today)
 - [Remove .noSelect() jQuery plugin](https://github.com/phpmyadmin/phpmyadmin/pull/19660) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 day ago)
 - [Ignore E2E test data for Git export](https://github.com/phpmyadmin/sql-parser/pull/622) on [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) (3 days ago)
 - [Update Composer dependencies](https://github.com/phpmyadmin/phpmyadmin/pull/19654) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (3 days ago)
 - [Move indexes classes to the Indexes namespace](https://github.com/phpmyadmin/phpmyadmin/pull/19652) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (4 days ago)
-- [Update Composer dependencies](https://github.com/phpmyadmin/motranslator/pull/54) on [phpmyadmin/motranslator](https://github.com/phpmyadmin/motranslator) (1 month ago)
 
 ---
 
