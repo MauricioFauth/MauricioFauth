@@ -26,11 +26,11 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 🔨 My recent Pull Requests
 
+- [Replace jQuery UI&#39;s dialogs with modals in Routines page](https://github.com/phpmyadmin/phpmyadmin/pull/19668) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (today)
 - [Replace central column jQuery UI&#39;s dialog with a modal](https://github.com/phpmyadmin/phpmyadmin/pull/19665) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (4 days ago)
 - [Add Bootstrap form classes to column definition inputs](https://github.com/phpmyadmin/phpmyadmin/pull/19663) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (6 days ago)
 - [Remove .noSelect() jQuery plugin](https://github.com/phpmyadmin/phpmyadmin/pull/19660) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
 - [Ignore E2E test data for Git export](https://github.com/phpmyadmin/sql-parser/pull/622) on [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) (1 week ago)
-- [Update Composer dependencies](https://github.com/phpmyadmin/phpmyadmin/pull/19654) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
 
 ---
 
