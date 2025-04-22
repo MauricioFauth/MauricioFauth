@@ -26,11 +26,11 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 🔨 My recent Pull Requests
 
+- [Add SQL parse error message when simulating DML](https://github.com/phpmyadmin/phpmyadmin/pull/19678) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (today)
 - [Fix issues in the routines page](https://github.com/phpmyadmin/phpmyadmin/pull/19677) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (5 days ago)
 - [Replace jQuery UI&#39;s dialogs with modals in Routines page](https://github.com/phpmyadmin/phpmyadmin/pull/19668) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
 - [Replace central column jQuery UI&#39;s dialog with a modal](https://github.com/phpmyadmin/phpmyadmin/pull/19665) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (2 weeks ago)
 - [Add Bootstrap form classes to column definition inputs](https://github.com/phpmyadmin/phpmyadmin/pull/19663) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (2 weeks ago)
-- [Remove .noSelect() jQuery plugin](https://github.com/phpmyadmin/phpmyadmin/pull/19660) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (2 weeks ago)
 
 ---
 
