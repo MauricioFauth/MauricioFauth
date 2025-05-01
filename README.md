@@ -11,10 +11,10 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 👷 Check out what I'm currently working on
 
-- [phpmyadmin/composer](https://github.com/phpmyadmin/composer) - Read only composer repository for phpMyAdmin (2 days ago)
-- [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB (2 days ago)
-- [phpmyadmin/coding-standard](https://github.com/phpmyadmin/coding-standard) - phpMyAdmin PHP CodeSniffer Coding Standard (2 days ago)
-- [phpmyadmin/motranslator](https://github.com/phpmyadmin/motranslator) - Translation API for PHP using Gettext MO files (4 weeks ago)
+- [phpmyadmin/composer](https://github.com/phpmyadmin/composer) - Read only composer repository for phpMyAdmin (3 days ago)
+- [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB (3 days ago)
+- [phpmyadmin/coding-standard](https://github.com/phpmyadmin/coding-standard) - phpMyAdmin PHP CodeSniffer Coding Standard (3 days ago)
+- [phpmyadmin/motranslator](https://github.com/phpmyadmin/motranslator) - Translation API for PHP using Gettext MO files (1 month ago)
 - [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) - A validating SQL lexer and parser with a focus on MySQL dialect. (2 months ago)
 - [phpmyadmin/twig-i18n-extension](https://github.com/phpmyadmin/twig-i18n-extension) - The phpMyAdmin project&#39;s fork of the Twig i18n extension (3 months ago)
 - [phpmyadmin/shapefile](https://github.com/phpmyadmin/shapefile) - ESRI ShapeFile library for PHP (4 months ago)
@@ -26,11 +26,11 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 🔨 My recent Pull Requests
 
-- [Fix PHP 8.4 implicitly nullable parameter deprecations](https://github.com/thecodingmachine/safe/pull/657) on [thecodingmachine/safe](https://github.com/thecodingmachine/safe) (6 days ago)
-- [Fix thecodingmachine/safe deprecations using a fork](https://github.com/phpmyadmin/phpmyadmin/pull/19681) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (6 days ago)
+- [Fix PHP 8.4 implicitly nullable parameter deprecations](https://github.com/thecodingmachine/safe/pull/657) on [thecodingmachine/safe](https://github.com/thecodingmachine/safe) (1 week ago)
+- [Fix thecodingmachine/safe deprecations using a fork](https://github.com/phpmyadmin/phpmyadmin/pull/19681) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
 - [Add SQL parse error message when simulating DML](https://github.com/phpmyadmin/phpmyadmin/pull/19678) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
-- [Fix issues in the routines page](https://github.com/phpmyadmin/phpmyadmin/pull/19677) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
-- [Replace jQuery UI&#39;s dialogs with modals in Routines page](https://github.com/phpmyadmin/phpmyadmin/pull/19668) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (2 weeks ago)
+- [Fix issues in the routines page](https://github.com/phpmyadmin/phpmyadmin/pull/19677) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (2 weeks ago)
+- [Replace jQuery UI&#39;s dialogs with modals in Routines page](https://github.com/phpmyadmin/phpmyadmin/pull/19668) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (3 weeks ago)
 
 ---
 
