@@ -26,11 +26,11 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 🔨 My recent Pull Requests
 
+- [Replace Config::getInstance with DI in controllers](https://github.com/phpmyadmin/phpmyadmin/pull/19689) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (today)
 - [Fix PHP 8.4 implicitly nullable parameter deprecations](https://github.com/thecodingmachine/safe/pull/657) on [thecodingmachine/safe](https://github.com/thecodingmachine/safe) (1 week ago)
 - [Fix thecodingmachine/safe deprecations using a fork](https://github.com/phpmyadmin/phpmyadmin/pull/19681) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
 - [Add SQL parse error message when simulating DML](https://github.com/phpmyadmin/phpmyadmin/pull/19678) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
 - [Fix issues in the routines page](https://github.com/phpmyadmin/phpmyadmin/pull/19677) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (2 weeks ago)
-- [Replace jQuery UI&#39;s dialogs with modals in Routines page](https://github.com/phpmyadmin/phpmyadmin/pull/19668) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (3 weeks ago)
 
 ---
 
