@@ -26,11 +26,11 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 🔨 My recent Pull Requests
 
+- [Replace jQuery UI&#39;s dialog components with Bootstrap modal component](https://github.com/phpmyadmin/phpmyadmin/pull/19703) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (today)
 - [Fix TwigLintCommandTest failing test](https://github.com/phpmyadmin/phpmyadmin/pull/19697) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (6 days ago)
 - [Replace Sql class construction with DI when possible](https://github.com/phpmyadmin/phpmyadmin/pull/19695) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
 - [Replace Config::getInstance with DI in controllers](https://github.com/phpmyadmin/phpmyadmin/pull/19689) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (2 weeks ago)
 - [Fix PHP 8.4 implicitly nullable parameter deprecations](https://github.com/thecodingmachine/safe/pull/657) on [thecodingmachine/safe](https://github.com/thecodingmachine/safe) (3 weeks ago)
-- [Fix thecodingmachine/safe deprecations using a fork](https://github.com/phpmyadmin/phpmyadmin/pull/19681) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (3 weeks ago)
 
 ---
 
