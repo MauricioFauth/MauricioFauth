@@ -11,9 +11,9 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 👷 Check out what I'm currently working on
 
-- [phpmyadmin/composer](https://github.com/phpmyadmin/composer) - Read only composer repository for phpMyAdmin (1 day ago)
-- [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB (1 day ago)
-- [phpmyadmin/coding-standard](https://github.com/phpmyadmin/coding-standard) - phpMyAdmin PHP CodeSniffer Coding Standard (2 weeks ago)
+- [phpmyadmin/composer](https://github.com/phpmyadmin/composer) - Read only composer repository for phpMyAdmin (2 days ago)
+- [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB (2 days ago)
+- [phpmyadmin/coding-standard](https://github.com/phpmyadmin/coding-standard) - phpMyAdmin PHP CodeSniffer Coding Standard (3 weeks ago)
 - [phpmyadmin/motranslator](https://github.com/phpmyadmin/motranslator) - Translation API for PHP using Gettext MO files (1 month ago)
 - [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) - A validating SQL lexer and parser with a focus on MySQL dialect. (2 months ago)
 - [phpmyadmin/twig-i18n-extension](https://github.com/phpmyadmin/twig-i18n-extension) - The phpMyAdmin project&#39;s fork of the Twig i18n extension (4 months ago)
@@ -26,7 +26,7 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 🔨 My recent Pull Requests
 
-- [Replace jQuery UI&#39;s dialog components with Bootstrap modal component](https://github.com/phpmyadmin/phpmyadmin/pull/19703) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (2 days ago)
+- [Replace jQuery UI&#39;s dialog components with Bootstrap modal component](https://github.com/phpmyadmin/phpmyadmin/pull/19703) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (3 days ago)
 - [Fix TwigLintCommandTest failing test](https://github.com/phpmyadmin/phpmyadmin/pull/19697) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
 - [Replace Sql class construction with DI when possible](https://github.com/phpmyadmin/phpmyadmin/pull/19695) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
 - [Replace Config::getInstance with DI in controllers](https://github.com/phpmyadmin/phpmyadmin/pull/19689) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (2 weeks ago)
