@@ -26,11 +26,11 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 🔨 My recent Pull Requests
 
+- [Extract HTML from InsertEdit::getHtmlInput()](https://github.com/phpmyadmin/phpmyadmin/pull/19719) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (today)
 - [Backport #19688 to QA_5_2](https://github.com/phpmyadmin/phpmyadmin/pull/19717) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (3 days ago)
 - [Import OpenLayers and Bootstrap directly using Webpack](https://github.com/phpmyadmin/phpmyadmin/pull/19712) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
 - [Replace jQuery UI&#39;s dialog components with Bootstrap modal component](https://github.com/phpmyadmin/phpmyadmin/pull/19703) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
 - [Fix TwigLintCommandTest failing test](https://github.com/phpmyadmin/phpmyadmin/pull/19697) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (2 weeks ago)
-- [Replace Sql class construction with DI when possible](https://github.com/phpmyadmin/phpmyadmin/pull/19695) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (3 weeks ago)
 
 ---
 
