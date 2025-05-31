@@ -11,11 +11,11 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 👷 Check out what I'm currently working on
 
-- [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB (6 days ago)
+- [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB (1 week ago)
 - [phpmyadmin/composer](https://github.com/phpmyadmin/composer) - Read only composer repository for phpMyAdmin (1 week ago)
 - [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) - A validating SQL lexer and parser with a focus on MySQL dialect. (1 week ago)
 - [phpmyadmin/coding-standard](https://github.com/phpmyadmin/coding-standard) - phpMyAdmin PHP CodeSniffer Coding Standard (1 month ago)
-- [phpmyadmin/motranslator](https://github.com/phpmyadmin/motranslator) - Translation API for PHP using Gettext MO files (1 month ago)
+- [phpmyadmin/motranslator](https://github.com/phpmyadmin/motranslator) - Translation API for PHP using Gettext MO files (2 months ago)
 - [phpmyadmin/twig-i18n-extension](https://github.com/phpmyadmin/twig-i18n-extension) - The phpMyAdmin project&#39;s fork of the Twig i18n extension (4 months ago)
 - [phpmyadmin/shapefile](https://github.com/phpmyadmin/shapefile) - ESRI ShapeFile library for PHP (5 months ago)
 - [php/web-php](https://github.com/php/web-php) - The www.php.net site (6 months ago)
@@ -26,11 +26,11 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 🔨 My recent Pull Requests
 
-- [Extract HTML from InsertEdit::getHtmlInput()](https://github.com/phpmyadmin/phpmyadmin/pull/19719) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 day ago)
-- [Backport #19688 to QA_5_2](https://github.com/phpmyadmin/phpmyadmin/pull/19717) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (4 days ago)
+- [Extract HTML from InsertEdit::getHtmlInput()](https://github.com/phpmyadmin/phpmyadmin/pull/19719) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (2 days ago)
+- [Backport #19688 to QA_5_2](https://github.com/phpmyadmin/phpmyadmin/pull/19717) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (5 days ago)
 - [Import OpenLayers and Bootstrap directly using Webpack](https://github.com/phpmyadmin/phpmyadmin/pull/19712) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
 - [Replace jQuery UI&#39;s dialog components with Bootstrap modal component](https://github.com/phpmyadmin/phpmyadmin/pull/19703) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (2 weeks ago)
-- [Fix TwigLintCommandTest failing test](https://github.com/phpmyadmin/phpmyadmin/pull/19697) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (2 weeks ago)
+- [Fix TwigLintCommandTest failing test](https://github.com/phpmyadmin/phpmyadmin/pull/19697) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (3 weeks ago)
 
 ---
 
