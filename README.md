@@ -46,5 +46,5 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 📫 How to reach me
 
-- Email: [mauricio@mfauth.net](mailto://mauricio@mfauth.net)
+- Email: [mauricio@mfauth.com.br](mailto://mauricio@mfauth.com.br)
 - Fediverse: [@mauriciofauth@phpc.social](https://phpc.social/@mauriciofauth)
