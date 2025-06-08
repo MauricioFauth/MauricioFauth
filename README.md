@@ -26,11 +26,11 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 🔨 My recent Pull Requests
 
+- [Replace equal operator with identical operator in GIS classes](https://github.com/phpmyadmin/phpmyadmin/pull/19730) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (today)
 - [Replace jQuery UI&#39;s datetimepicker with tempus-dominus](https://github.com/phpmyadmin/phpmyadmin/pull/19727) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (3 days ago)
 - [Update Composer dependencies](https://github.com/phpmyadmin/phpmyadmin/pull/19724) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (4 days ago)
 - [Extract HTML from InsertEdit::getHtmlInput()](https://github.com/phpmyadmin/phpmyadmin/pull/19719) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
 - [Backport #19688 to QA_5_2](https://github.com/phpmyadmin/phpmyadmin/pull/19717) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
-- [Import OpenLayers and Bootstrap directly using Webpack](https://github.com/phpmyadmin/phpmyadmin/pull/19712) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (2 weeks ago)
 
 ---
 
