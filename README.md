@@ -26,11 +26,11 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 🔨 My recent Pull Requests
 
+- [Make some comparisons stricter](https://github.com/phpmyadmin/phpmyadmin/pull/19753) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (today)
 - [Extract dependencies from Transformations class](https://github.com/phpmyadmin/phpmyadmin/pull/19738) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (2 weeks ago)
 - [Replace equal operator with identical operator in GIS classes](https://github.com/phpmyadmin/phpmyadmin/pull/19730) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (4 weeks ago)
 - [Replace jQuery UI&#39;s datetimepicker with tempus-dominus](https://github.com/phpmyadmin/phpmyadmin/pull/19727) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 month ago)
 - [Update Composer dependencies](https://github.com/phpmyadmin/phpmyadmin/pull/19724) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 month ago)
-- [Extract HTML from InsertEdit::getHtmlInput()](https://github.com/phpmyadmin/phpmyadmin/pull/19719) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 month ago)
 
 ---
 
