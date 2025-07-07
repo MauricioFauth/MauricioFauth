@@ -26,11 +26,11 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 🔨 My recent Pull Requests
 
+- [Remove PMA_PATH_TO_BASEDIR constant](https://github.com/phpmyadmin/phpmyadmin/pull/19754) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (today)
 - [Create phpweb\News\NewsHandler class to handle pregen-news.inc](https://github.com/php/web-php/pull/1288) on [php/web-php](https://github.com/php/web-php) (today)
 - [Make some comparisons stricter](https://github.com/phpmyadmin/phpmyadmin/pull/19753) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 day ago)
 - [Extract dependencies from Transformations class](https://github.com/phpmyadmin/phpmyadmin/pull/19738) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (2 weeks ago)
 - [Replace equal operator with identical operator in GIS classes](https://github.com/phpmyadmin/phpmyadmin/pull/19730) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (4 weeks ago)
-- [Replace jQuery UI&#39;s datetimepicker with tempus-dominus](https://github.com/phpmyadmin/phpmyadmin/pull/19727) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 month ago)
 
 ---
 
