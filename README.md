@@ -11,7 +11,7 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 👷 Check out what I'm currently working on
 
-- [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB (1 day ago)
+- [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB (today)
 - [phpmyadmin/composer](https://github.com/phpmyadmin/composer) - Read only composer repository for phpMyAdmin (1 month ago)
 - [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) - A validating SQL lexer and parser with a focus on MySQL dialect. (1 month ago)
 - [phpmyadmin/coding-standard](https://github.com/phpmyadmin/coding-standard) - phpMyAdmin PHP CodeSniffer Coding Standard (2 months ago)
@@ -26,11 +26,11 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 🔨 My recent Pull Requests
 
+- [Upgrade Composer dependencies](https://github.com/phpmyadmin/phpmyadmin/pull/19755) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (today)
 - [Remove PMA_PATH_TO_BASEDIR constant](https://github.com/phpmyadmin/phpmyadmin/pull/19754) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 day ago)
 - [Create phpweb\News\NewsHandler class to handle pregen-news.inc](https://github.com/php/web-php/pull/1288) on [php/web-php](https://github.com/php/web-php) (1 day ago)
 - [Make some comparisons stricter](https://github.com/phpmyadmin/phpmyadmin/pull/19753) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (2 days ago)
 - [Extract dependencies from Transformations class](https://github.com/phpmyadmin/phpmyadmin/pull/19738) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (2 weeks ago)
-- [Replace equal operator with identical operator in GIS classes](https://github.com/phpmyadmin/phpmyadmin/pull/19730) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 month ago)
 
 ---
 
