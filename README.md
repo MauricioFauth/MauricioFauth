@@ -26,11 +26,11 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 🔨 My recent Pull Requests
 
+- [Collect routes from the Route attribute in controller classes](https://github.com/phpmyadmin/phpmyadmin/pull/19762) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (today)
 - [Refactor Twig extensions to use Twig&#39;s AttributeExtension](https://github.com/phpmyadmin/phpmyadmin/pull/19756) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (4 days ago)
 - [Upgrade Composer dependencies](https://github.com/phpmyadmin/phpmyadmin/pull/19755) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (4 days ago)
 - [Remove PMA_PATH_TO_BASEDIR constant](https://github.com/phpmyadmin/phpmyadmin/pull/19754) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (5 days ago)
 - [Create phpweb\News\NewsHandler class to handle pregen-news.inc](https://github.com/php/web-php/pull/1288) on [php/web-php](https://github.com/php/web-php) (5 days ago)
-- [Make some comparisons stricter](https://github.com/phpmyadmin/phpmyadmin/pull/19753) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (6 days ago)
 
 ---
 
