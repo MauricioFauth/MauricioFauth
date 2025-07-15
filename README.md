@@ -26,11 +26,11 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 🔨 My recent Pull Requests
 
+- [Directly return a Reponse object after a redirect when possible](https://github.com/phpmyadmin/phpmyadmin/pull/19766) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (today)
 - [Lazy-load middleware in QueueRequestHandler](https://github.com/phpmyadmin/phpmyadmin/pull/19765) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 day ago)
 - [Collect routes from the Route attribute in controller classes](https://github.com/phpmyadmin/phpmyadmin/pull/19762) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (3 days ago)
 - [Refactor Twig extensions to use Twig&#39;s AttributeExtension](https://github.com/phpmyadmin/phpmyadmin/pull/19756) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
 - [Upgrade Composer dependencies](https://github.com/phpmyadmin/phpmyadmin/pull/19755) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
-- [Remove PMA_PATH_TO_BASEDIR constant](https://github.com/phpmyadmin/phpmyadmin/pull/19754) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
 
 ---
 
