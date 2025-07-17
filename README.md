@@ -26,11 +26,11 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 🔨 My recent Pull Requests
 
+- [Remove the PMA_DISABLE_NAVI_SETTINGS constant](https://github.com/phpmyadmin/phpmyadmin/pull/19768) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (today)
 - [Add static analysis stub for PSR ContainerInterface](https://github.com/phpmyadmin/phpmyadmin/pull/19767) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (2 days ago)
 - [Directly return a Reponse object after a redirect when possible](https://github.com/phpmyadmin/phpmyadmin/pull/19766) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (2 days ago)
 - [Lazy-load middleware in QueueRequestHandler](https://github.com/phpmyadmin/phpmyadmin/pull/19765) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (3 days ago)
 - [Collect routes from the Route attribute in controller classes](https://github.com/phpmyadmin/phpmyadmin/pull/19762) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (5 days ago)
-- [Refactor Twig extensions to use Twig&#39;s AttributeExtension](https://github.com/phpmyadmin/phpmyadmin/pull/19756) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
 
 ---
 
