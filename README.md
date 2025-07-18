@@ -11,7 +11,7 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 👷 Check out what I'm currently working on
 
-- [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB (2 days ago)
+- [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB (today)
 - [phpmyadmin/composer](https://github.com/phpmyadmin/composer) - Read only composer repository for phpMyAdmin (1 month ago)
 - [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) - A validating SQL lexer and parser with a focus on MySQL dialect. (1 month ago)
 - [phpmyadmin/coding-standard](https://github.com/phpmyadmin/coding-standard) - phpMyAdmin PHP CodeSniffer Coding Standard (2 months ago)
@@ -26,11 +26,11 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 🔨 My recent Pull Requests
 
+- [Remove .phpstorm.meta.php from release file](https://github.com/phpmyadmin/phpmyadmin/pull/19769) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (today)
 - [Remove the PMA_DISABLE_NAVI_SETTINGS constant](https://github.com/phpmyadmin/phpmyadmin/pull/19768) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 day ago)
 - [Add static analysis stub for PSR ContainerInterface](https://github.com/phpmyadmin/phpmyadmin/pull/19767) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (3 days ago)
 - [Directly return a Reponse object after a redirect when possible](https://github.com/phpmyadmin/phpmyadmin/pull/19766) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (3 days ago)
 - [Lazy-load middleware in QueueRequestHandler](https://github.com/phpmyadmin/phpmyadmin/pull/19765) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (4 days ago)
-- [Collect routes from the Route attribute in controller classes](https://github.com/phpmyadmin/phpmyadmin/pull/19762) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (6 days ago)
 
 ---
 
