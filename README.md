@@ -26,11 +26,11 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 🔨 My recent Pull Requests
 
+- [Refactor the Engines\Innodb::getPageBufferpool() method](https://github.com/phpmyadmin/phpmyadmin/pull/19786) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (today)
 - [Refactor the Util::formatNumber() method](https://github.com/phpmyadmin/phpmyadmin/pull/19780) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (3 days ago)
 - [Update GitHub actions](https://github.com/phpmyadmin/sql-parser/pull/629) on [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) (1 week ago)
 - [Add contexts for MySQL 9.2, MySQL 9.3 and MariaDB 12.1](https://github.com/phpmyadmin/sql-parser/pull/628) on [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) (1 week ago)
 - [Remove .phpstorm.meta.php from release file](https://github.com/phpmyadmin/phpmyadmin/pull/19769) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
-- [Remove the PMA_DISABLE_NAVI_SETTINGS constant](https://github.com/phpmyadmin/phpmyadmin/pull/19768) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
 
 ---
 
