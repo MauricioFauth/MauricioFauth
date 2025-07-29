@@ -11,7 +11,7 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 👷 Check out what I'm currently working on
 
-- [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB (today)
+- [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB (1 day ago)
 - [php/web-php](https://github.com/php/web-php) - The www.php.net site (1 week ago)
 - [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) - A validating SQL lexer and parser with a focus on MySQL dialect. (1 week ago)
 - [phpmyadmin/composer](https://github.com/phpmyadmin/composer) - Read only composer repository for phpMyAdmin (2 months ago)
@@ -26,8 +26,8 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 🔨 My recent Pull Requests
 
-- [Refactor the Engines\Innodb::getPageBufferpool() method](https://github.com/phpmyadmin/phpmyadmin/pull/19786) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 day ago)
-- [Refactor the Util::formatNumber() method](https://github.com/phpmyadmin/phpmyadmin/pull/19780) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (4 days ago)
+- [Refactor the Engines\Innodb::getPageBufferpool() method](https://github.com/phpmyadmin/phpmyadmin/pull/19786) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (2 days ago)
+- [Refactor the Util::formatNumber() method](https://github.com/phpmyadmin/phpmyadmin/pull/19780) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (5 days ago)
 - [Update GitHub actions](https://github.com/phpmyadmin/sql-parser/pull/629) on [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) (1 week ago)
 - [Add contexts for MySQL 9.2, MySQL 9.3 and MariaDB 12.1](https://github.com/phpmyadmin/sql-parser/pull/628) on [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) (1 week ago)
 - [Remove .phpstorm.meta.php from release file](https://github.com/phpmyadmin/phpmyadmin/pull/19769) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
