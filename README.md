@@ -36,8 +36,8 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.2.8](https://github.com/sebastianbergmann/phpunit/releases/tag/12.2.8), today) - The PHP Unit Testing framework.
 - [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) ([5.11.1](https://github.com/phpmyadmin/sql-parser/releases/tag/5.11.1), 1 week ago) - A validating SQL lexer and parser with a focus on MySQL dialect.
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.2.7](https://github.com/sebastianbergmann/phpunit/releases/tag/12.2.7), 2 weeks ago) - The PHP Unit Testing framework.
 - [phpmyadmin/motranslator](https://github.com/phpmyadmin/motranslator) ([5.4.0](https://github.com/phpmyadmin/motranslator/releases/tag/5.4.0), 4 months ago) - Translation API for PHP using Gettext MO files
 - [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) ([RELEASE_5_2_2](https://github.com/phpmyadmin/phpmyadmin/releases/tag/RELEASE_5_2_2), 6 months ago) - A web interface for MySQL and MariaDB
 - [phpmyadmin/twig-i18n-extension](https://github.com/phpmyadmin/twig-i18n-extension) ([5.0.0](https://github.com/phpmyadmin/twig-i18n-extension/releases/tag/5.0.0), 6 months ago) - The phpMyAdmin project&#39;s fork of the Twig i18n extension
