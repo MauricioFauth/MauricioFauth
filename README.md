@@ -11,7 +11,7 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 👷 Check out what I'm currently working on
 
-- [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB (5 days ago)
+- [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB (6 days ago)
 - [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) - A validating SQL lexer and parser with a focus on MySQL dialect. (3 weeks ago)
 - [php/web-php](https://github.com/php/web-php) - The www.php.net site (3 weeks ago)
 - [phpmyadmin/composer](https://github.com/phpmyadmin/composer) - Read only composer repository for phpMyAdmin (2 months ago)
@@ -26,7 +26,7 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 🔨 My recent Pull Requests
 
-- [Add unit tests for some `Dbal\DatabaseInterface` methods](https://github.com/phpmyadmin/phpmyadmin/pull/19801) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (5 days ago)
+- [Add unit tests for some `Dbal\DatabaseInterface` methods](https://github.com/phpmyadmin/phpmyadmin/pull/19801) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (6 days ago)
 - [Extract string constants from `RelationParameters` class](https://github.com/phpmyadmin/phpmyadmin/pull/19800) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
 - [Inline class properties of TypesByDatabaseVersionTest and Designer\CommonTest](https://github.com/phpmyadmin/phpmyadmin/pull/19799) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
 - [Refactor the Engines\Innodb::getPageBufferpool() method](https://github.com/phpmyadmin/phpmyadmin/pull/19786) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (2 weeks ago)
@@ -36,9 +36,9 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.3.4](https://github.com/sebastianbergmann/phpunit/releases/tag/12.3.4), today) - The PHP Unit Testing framework.
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.3.4](https://github.com/sebastianbergmann/phpunit/releases/tag/12.3.4), 1 day ago) - The PHP Unit Testing framework.
 - [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) ([5.11.1](https://github.com/phpmyadmin/sql-parser/releases/tag/5.11.1), 3 weeks ago) - A validating SQL lexer and parser with a focus on MySQL dialect.
-- [phpmyadmin/motranslator](https://github.com/phpmyadmin/motranslator) ([5.4.0](https://github.com/phpmyadmin/motranslator/releases/tag/5.4.0), 4 months ago) - Translation API for PHP using Gettext MO files
+- [phpmyadmin/motranslator](https://github.com/phpmyadmin/motranslator) ([5.4.0](https://github.com/phpmyadmin/motranslator/releases/tag/5.4.0), 5 months ago) - Translation API for PHP using Gettext MO files
 - [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) ([RELEASE_5_2_2](https://github.com/phpmyadmin/phpmyadmin/releases/tag/RELEASE_5_2_2), 6 months ago) - A web interface for MySQL and MariaDB
 - [phpmyadmin/twig-i18n-extension](https://github.com/phpmyadmin/twig-i18n-extension) ([5.0.0](https://github.com/phpmyadmin/twig-i18n-extension/releases/tag/5.0.0), 7 months ago) - The phpMyAdmin project&#39;s fork of the Twig i18n extension
 
