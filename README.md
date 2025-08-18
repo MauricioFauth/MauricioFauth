@@ -26,11 +26,11 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 🔨 My recent Pull Requests
 
+- [Fix some PHP deprecations](https://github.com/phpmyadmin/phpmyadmin/pull/19813) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (today)
 - [Add unit tests for some `Dbal\DatabaseInterface` methods](https://github.com/phpmyadmin/phpmyadmin/pull/19801) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
 - [Extract string constants from `RelationParameters` class](https://github.com/phpmyadmin/phpmyadmin/pull/19800) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
 - [Inline class properties of TypesByDatabaseVersionTest and Designer\CommonTest](https://github.com/phpmyadmin/phpmyadmin/pull/19799) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
 - [Refactor the Engines\Innodb::getPageBufferpool() method](https://github.com/phpmyadmin/phpmyadmin/pull/19786) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (3 weeks ago)
-- [Refactor the Util::formatNumber() method](https://github.com/phpmyadmin/phpmyadmin/pull/19780) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (3 weeks ago)
 
 ---
 
