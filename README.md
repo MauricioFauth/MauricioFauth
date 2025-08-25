@@ -11,7 +11,7 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 👷 Check out what I'm currently working on
 
-- [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB (5 days ago)
+- [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB (today)
 - [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) - A validating SQL lexer and parser with a focus on MySQL dialect. (1 month ago)
 - [php/web-php](https://github.com/php/web-php) - The www.php.net site (1 month ago)
 - [phpmyadmin/composer](https://github.com/phpmyadmin/composer) - Read only composer repository for phpMyAdmin (3 months ago)
@@ -26,11 +26,11 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 🔨 My recent Pull Requests
 
+- [Allow Scrutinizer CI to fail](https://github.com/phpmyadmin/phpmyadmin/pull/19823) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (today)
 - [Fix some PHP deprecations](https://github.com/phpmyadmin/phpmyadmin/pull/19813) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
 - [Add unit tests for some `Dbal\DatabaseInterface` methods](https://github.com/phpmyadmin/phpmyadmin/pull/19801) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (2 weeks ago)
 - [Extract string constants from `RelationParameters` class](https://github.com/phpmyadmin/phpmyadmin/pull/19800) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (2 weeks ago)
 - [Inline class properties of TypesByDatabaseVersionTest and Designer\CommonTest](https://github.com/phpmyadmin/phpmyadmin/pull/19799) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (2 weeks ago)
-- [Refactor the Engines\Innodb::getPageBufferpool() method](https://github.com/phpmyadmin/phpmyadmin/pull/19786) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (4 weeks ago)
 
 ---
 
