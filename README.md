@@ -26,11 +26,11 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 🔨 My recent Pull Requests
 
+- [Fix export template update error](https://github.com/phpmyadmin/phpmyadmin/pull/19832) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (today)
 - [Add unit test for ThemeColorModeToggle event listener](https://github.com/phpmyadmin/phpmyadmin/pull/19830) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (2 days ago)
 - [Change ThemeColorModeToggle listener to use the event target](https://github.com/phpmyadmin/phpmyadmin/pull/19824) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (4 days ago)
 - [Allow Scrutinizer CI to fail](https://github.com/phpmyadmin/phpmyadmin/pull/19823) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (5 days ago)
 - [Fix some PHP deprecations](https://github.com/phpmyadmin/phpmyadmin/pull/19813) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
-- [Add unit tests for some `Dbal\DatabaseInterface` methods](https://github.com/phpmyadmin/phpmyadmin/pull/19801) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (3 weeks ago)
 
 ---
 
