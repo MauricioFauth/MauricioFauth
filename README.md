@@ -26,11 +26,11 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 🔨 My recent Pull Requests
 
+- [Bump Node version from 16 to 20](https://github.com/phpmyadmin/phpmyadmin/pull/19852) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (today)
 - [Add some unit tests form PhpMyAdmin\Config classes](https://github.com/phpmyadmin/phpmyadmin/pull/19849) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 day ago)
 - [Add some unit tests](https://github.com/phpmyadmin/phpmyadmin/pull/19847) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (4 days ago)
 - [Disable global submit event listener from some forms](https://github.com/phpmyadmin/phpmyadmin/pull/19839) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
 - [Fix error with import status message](https://github.com/phpmyadmin/phpmyadmin/pull/19835) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
-- [Fix export template update error](https://github.com/phpmyadmin/phpmyadmin/pull/19832) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
 
 ---
 
