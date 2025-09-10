@@ -11,7 +11,7 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 👷 Check out what I'm currently working on
 
-- [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB (today)
+- [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB (1 day ago)
 - [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) - A validating SQL lexer and parser with a focus on MySQL dialect. (1 month ago)
 - [php/web-php](https://github.com/php/web-php) - The www.php.net site (1 month ago)
 - [phpmyadmin/composer](https://github.com/phpmyadmin/composer) - Read only composer repository for phpMyAdmin (3 months ago)
@@ -26,8 +26,8 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 🔨 My recent Pull Requests
 
-- [Add some unit tests form PhpMyAdmin\Config classes](https://github.com/phpmyadmin/phpmyadmin/pull/19849) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (today)
-- [Add some unit tests](https://github.com/phpmyadmin/phpmyadmin/pull/19847) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (3 days ago)
+- [Add some unit tests form PhpMyAdmin\Config classes](https://github.com/phpmyadmin/phpmyadmin/pull/19849) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 day ago)
+- [Add some unit tests](https://github.com/phpmyadmin/phpmyadmin/pull/19847) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (4 days ago)
 - [Disable global submit event listener from some forms](https://github.com/phpmyadmin/phpmyadmin/pull/19839) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
 - [Fix error with import status message](https://github.com/phpmyadmin/phpmyadmin/pull/19835) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
 - [Fix export template update error](https://github.com/phpmyadmin/phpmyadmin/pull/19832) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
@@ -36,7 +36,7 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.3.8](https://github.com/sebastianbergmann/phpunit/releases/tag/12.3.8), 6 days ago) - The PHP Unit Testing framework.
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.3.8](https://github.com/sebastianbergmann/phpunit/releases/tag/12.3.8), 1 week ago) - The PHP Unit Testing framework.
 - [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) ([5.11.1](https://github.com/phpmyadmin/sql-parser/releases/tag/5.11.1), 1 month ago) - A validating SQL lexer and parser with a focus on MySQL dialect.
 - [phpmyadmin/motranslator](https://github.com/phpmyadmin/motranslator) ([5.4.0](https://github.com/phpmyadmin/motranslator/releases/tag/5.4.0), 5 months ago) - Translation API for PHP using Gettext MO files
 - [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) ([RELEASE_5_2_2](https://github.com/phpmyadmin/phpmyadmin/releases/tag/RELEASE_5_2_2), 7 months ago) - A web interface for MySQL and MariaDB
