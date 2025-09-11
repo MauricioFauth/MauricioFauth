@@ -11,7 +11,7 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 👷 Check out what I'm currently working on
 
-- [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB (today)
+- [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB (1 day ago)
 - [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) - A validating SQL lexer and parser with a focus on MySQL dialect. (1 month ago)
 - [php/web-php](https://github.com/php/web-php) - The www.php.net site (1 month ago)
 - [phpmyadmin/composer](https://github.com/phpmyadmin/composer) - Read only composer repository for phpMyAdmin (3 months ago)
@@ -26,10 +26,10 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 🔨 My recent Pull Requests
 
-- [Remove @babel/runtime dependency](https://github.com/phpmyadmin/phpmyadmin/pull/19856) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (today)
-- [Bump Node version from 16 to 20](https://github.com/phpmyadmin/phpmyadmin/pull/19852) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (today)
-- [Add some unit tests form PhpMyAdmin\Config classes](https://github.com/phpmyadmin/phpmyadmin/pull/19849) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 day ago)
-- [Add some unit tests](https://github.com/phpmyadmin/phpmyadmin/pull/19847) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (4 days ago)
+- [Remove @babel/runtime dependency](https://github.com/phpmyadmin/phpmyadmin/pull/19856) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 day ago)
+- [Bump Node version from 16 to 20](https://github.com/phpmyadmin/phpmyadmin/pull/19852) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 day ago)
+- [Add some unit tests form PhpMyAdmin\Config classes](https://github.com/phpmyadmin/phpmyadmin/pull/19849) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (2 days ago)
+- [Add some unit tests](https://github.com/phpmyadmin/phpmyadmin/pull/19847) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (5 days ago)
 - [Disable global submit event listener from some forms](https://github.com/phpmyadmin/phpmyadmin/pull/19839) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
 
 ---
