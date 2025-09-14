@@ -36,7 +36,7 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.3.10](https://github.com/sebastianbergmann/phpunit/releases/tag/12.3.10), 3 days ago) - The PHP Unit Testing framework.
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.3.11](https://github.com/sebastianbergmann/phpunit/releases/tag/12.3.11), today) - The PHP Unit Testing framework.
 - [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) ([5.11.1](https://github.com/phpmyadmin/sql-parser/releases/tag/5.11.1), 1 month ago) - A validating SQL lexer and parser with a focus on MySQL dialect.
 - [phpmyadmin/motranslator](https://github.com/phpmyadmin/motranslator) ([5.4.0](https://github.com/phpmyadmin/motranslator/releases/tag/5.4.0), 6 months ago) - Translation API for PHP using Gettext MO files
 - [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) ([RELEASE_5_2_2](https://github.com/phpmyadmin/phpmyadmin/releases/tag/RELEASE_5_2_2), 7 months ago) - A web interface for MySQL and MariaDB
