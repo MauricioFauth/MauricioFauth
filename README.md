@@ -26,9 +26,9 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 🔨 My recent Pull Requests
 
-- [Fix collation error when checking for grant permission](https://github.com/phpmyadmin/phpmyadmin/pull/19864) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (6 days ago)
-- [Remove @babel/runtime dependency](https://github.com/phpmyadmin/phpmyadmin/pull/19856) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
-- [Bump Node version from 16 to 20](https://github.com/phpmyadmin/phpmyadmin/pull/19852) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
+- [Fix collation error when checking for grant permission](https://github.com/phpmyadmin/phpmyadmin/pull/19864) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
+- [Remove @babel/runtime dependency](https://github.com/phpmyadmin/phpmyadmin/pull/19856) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (2 weeks ago)
+- [Bump Node version from 16 to 20](https://github.com/phpmyadmin/phpmyadmin/pull/19852) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (2 weeks ago)
 - [Add some unit tests form PhpMyAdmin\Config classes](https://github.com/phpmyadmin/phpmyadmin/pull/19849) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (2 weeks ago)
 - [Add some unit tests](https://github.com/phpmyadmin/phpmyadmin/pull/19847) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (2 weeks ago)
 
@@ -36,7 +36,7 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.3.13](https://github.com/sebastianbergmann/phpunit/releases/tag/12.3.13), today) - The PHP Unit Testing framework.
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.3.13](https://github.com/sebastianbergmann/phpunit/releases/tag/12.3.13), 1 day ago) - The PHP Unit Testing framework.
 - [phpmyadmin/twig-i18n-extension](https://github.com/phpmyadmin/twig-i18n-extension) ([4.1.4](https://github.com/phpmyadmin/twig-i18n-extension/releases/tag/4.1.4), 1 week ago) - The phpMyAdmin project&#39;s fork of the Twig i18n extension
 - [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) ([5.11.1](https://github.com/phpmyadmin/sql-parser/releases/tag/5.11.1), 2 months ago) - A validating SQL lexer and parser with a focus on MySQL dialect.
 - [phpmyadmin/motranslator](https://github.com/phpmyadmin/motranslator) ([5.4.0](https://github.com/phpmyadmin/motranslator/releases/tag/5.4.0), 6 months ago) - Translation API for PHP using Gettext MO files
