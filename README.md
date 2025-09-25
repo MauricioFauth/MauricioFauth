@@ -16,7 +16,7 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 - [php/web-php](https://github.com/php/web-php) - The www.php.net site (2 months ago)
 - [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) - A validating SQL lexer and parser with a focus on MySQL dialect. (2 months ago)
 - [phpmyadmin/composer](https://github.com/phpmyadmin/composer) - Read only composer repository for phpMyAdmin (4 months ago)
-- [phpmyadmin/coding-standard](https://github.com/phpmyadmin/coding-standard) - phpMyAdmin PHP CodeSniffer Coding Standard (4 months ago)
+- [phpmyadmin/coding-standard](https://github.com/phpmyadmin/coding-standard) - phpMyAdmin PHP CodeSniffer Coding Standard (5 months ago)
 - [phpmyadmin/motranslator](https://github.com/phpmyadmin/motranslator) - Translation API for PHP using Gettext MO files (5 months ago)
 - [phpmyadmin/shapefile](https://github.com/phpmyadmin/shapefile) - ESRI ShapeFile library for PHP (9 months ago)
 - [tecnickcom/TCPDF](https://github.com/tecnickcom/TCPDF) - Official clone of PHP library to generate PDF documents and barcodes (11 months ago)
@@ -36,7 +36,7 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.3.14](https://github.com/sebastianbergmann/phpunit/releases/tag/12.3.14), today) - The PHP Unit Testing framework.
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.3.14](https://github.com/sebastianbergmann/phpunit/releases/tag/12.3.14), 1 day ago) - The PHP Unit Testing framework.
 - [phpmyadmin/twig-i18n-extension](https://github.com/phpmyadmin/twig-i18n-extension) ([4.1.4](https://github.com/phpmyadmin/twig-i18n-extension/releases/tag/4.1.4), 1 week ago) - The phpMyAdmin project&#39;s fork of the Twig i18n extension
 - [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) ([5.11.1](https://github.com/phpmyadmin/sql-parser/releases/tag/5.11.1), 2 months ago) - A validating SQL lexer and parser with a focus on MySQL dialect.
 - [phpmyadmin/motranslator](https://github.com/phpmyadmin/motranslator) ([5.4.0](https://github.com/phpmyadmin/motranslator/releases/tag/5.4.0), 6 months ago) - Translation API for PHP using Gettext MO files
