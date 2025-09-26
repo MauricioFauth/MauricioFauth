@@ -26,11 +26,11 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 🔨 My recent Pull Requests
 
+- [Add PHP 8.5 to the workflow](https://github.com/phpmyadmin/twig-i18n-extension/pull/25) on [phpmyadmin/twig-i18n-extension](https://github.com/phpmyadmin/twig-i18n-extension) (today)
 - [Fix collation error when checking for grant permission](https://github.com/phpmyadmin/phpmyadmin/pull/19864) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
 - [Remove @babel/runtime dependency](https://github.com/phpmyadmin/phpmyadmin/pull/19856) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (2 weeks ago)
 - [Bump Node version from 16 to 20](https://github.com/phpmyadmin/phpmyadmin/pull/19852) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (2 weeks ago)
 - [Add some unit tests form PhpMyAdmin\Config classes](https://github.com/phpmyadmin/phpmyadmin/pull/19849) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (2 weeks ago)
-- [Add some unit tests](https://github.com/phpmyadmin/phpmyadmin/pull/19847) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (2 weeks ago)
 
 ---
 
