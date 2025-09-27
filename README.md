@@ -11,7 +11,7 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 👷 Check out what I'm currently working on
 
-- [phpmyadmin/twig-i18n-extension](https://github.com/phpmyadmin/twig-i18n-extension) - The phpMyAdmin project&#39;s fork of the Twig i18n extension (today)
+- [phpmyadmin/twig-i18n-extension](https://github.com/phpmyadmin/twig-i18n-extension) - The phpMyAdmin project&#39;s fork of the Twig i18n extension (1 day ago)
 - [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB (1 week ago)
 - [php/web-php](https://github.com/php/web-php) - The www.php.net site (2 months ago)
 - [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) - A validating SQL lexer and parser with a focus on MySQL dialect. (2 months ago)
@@ -26,18 +26,18 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 🔨 My recent Pull Requests
 
-- [Add PHP 8.5 to the workflow](https://github.com/phpmyadmin/twig-i18n-extension/pull/25) on [phpmyadmin/twig-i18n-extension](https://github.com/phpmyadmin/twig-i18n-extension) (today)
+- [Fix Twig deprecations ](https://github.com/phpmyadmin/twig-i18n-extension/pull/26) on [phpmyadmin/twig-i18n-extension](https://github.com/phpmyadmin/twig-i18n-extension) (1 day ago)
+- [Add PHP 8.5 to the workflow](https://github.com/phpmyadmin/twig-i18n-extension/pull/25) on [phpmyadmin/twig-i18n-extension](https://github.com/phpmyadmin/twig-i18n-extension) (1 day ago)
 - [Fix collation error when checking for grant permission](https://github.com/phpmyadmin/phpmyadmin/pull/19864) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
 - [Remove @babel/runtime dependency](https://github.com/phpmyadmin/phpmyadmin/pull/19856) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (2 weeks ago)
 - [Bump Node version from 16 to 20](https://github.com/phpmyadmin/phpmyadmin/pull/19852) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (2 weeks ago)
-- [Add some unit tests form PhpMyAdmin\Config classes](https://github.com/phpmyadmin/phpmyadmin/pull/19849) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (2 weeks ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpmyadmin/twig-i18n-extension](https://github.com/phpmyadmin/twig-i18n-extension) ([5.0.1](https://github.com/phpmyadmin/twig-i18n-extension/releases/tag/5.0.1), today) - The phpMyAdmin project&#39;s fork of the Twig i18n extension
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.3.14](https://github.com/sebastianbergmann/phpunit/releases/tag/12.3.14), 2 days ago) - The PHP Unit Testing framework.
+- [phpmyadmin/twig-i18n-extension](https://github.com/phpmyadmin/twig-i18n-extension) ([5.0.1](https://github.com/phpmyadmin/twig-i18n-extension/releases/tag/5.0.1), 1 day ago) - The phpMyAdmin project&#39;s fork of the Twig i18n extension
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.3.14](https://github.com/sebastianbergmann/phpunit/releases/tag/12.3.14), 3 days ago) - The PHP Unit Testing framework.
 - [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) ([5.11.1](https://github.com/phpmyadmin/sql-parser/releases/tag/5.11.1), 2 months ago) - A validating SQL lexer and parser with a focus on MySQL dialect.
 - [phpmyadmin/motranslator](https://github.com/phpmyadmin/motranslator) ([5.4.0](https://github.com/phpmyadmin/motranslator/releases/tag/5.4.0), 6 months ago) - Translation API for PHP using Gettext MO files
 - [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) ([RELEASE_5_2_2](https://github.com/phpmyadmin/phpmyadmin/releases/tag/RELEASE_5_2_2), 8 months ago) - A web interface for MySQL and MariaDB
