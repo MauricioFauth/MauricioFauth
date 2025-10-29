@@ -24,11 +24,11 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 🔨 My recent Pull Requests
 
+- [Add PHP 8.5 to CI workflow](https://github.com/phpmyadmin/shapefile/pull/44) on [phpmyadmin/shapefile](https://github.com/phpmyadmin/shapefile) (today)
 - [Fix PHP 8.5 deprecations](https://github.com/phpmyadmin/phpmyadmin/pull/19883) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
 - [Add a changelog file using the Keep a Changelog format](https://github.com/phpmyadmin/phpmyadmin/pull/19873) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 month ago)
 - [Fix Twig deprecations ](https://github.com/phpmyadmin/twig-i18n-extension/pull/26) on [phpmyadmin/twig-i18n-extension](https://github.com/phpmyadmin/twig-i18n-extension) (1 month ago)
 - [Add PHP 8.5 to the workflow](https://github.com/phpmyadmin/twig-i18n-extension/pull/25) on [phpmyadmin/twig-i18n-extension](https://github.com/phpmyadmin/twig-i18n-extension) (1 month ago)
-- [Fix collation error when checking for grant permission](https://github.com/phpmyadmin/phpmyadmin/pull/19864) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 month ago)
 
 ---
 
