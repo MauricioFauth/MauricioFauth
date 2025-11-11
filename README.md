@@ -24,11 +24,11 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 🔨 My recent Pull Requests
 
+- [Fix some PHP 8.5 deprecations](https://github.com/phpmyadmin/phpmyadmin/pull/19929) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (today)
 - [Fix collation error when checking for grant permission](https://github.com/phpmyadmin/phpmyadmin/pull/19923) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (4 days ago)
 - [Extract DbiDummy assertions from AbstractTestCase](https://github.com/phpmyadmin/phpmyadmin/pull/19922) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (4 days ago)
 - [Update Composer dependencies](https://github.com/phpmyadmin/phpmyadmin/pull/19920) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (4 days ago)
 - [Add unit tests for TrackedDataType enum](https://github.com/phpmyadmin/phpmyadmin/pull/19919) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (4 days ago)
-- [Update Composer dependencies](https://github.com/phpmyadmin/phpmyadmin/pull/19914) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
 
 ---
 
