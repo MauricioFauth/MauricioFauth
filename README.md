@@ -11,9 +11,9 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 👷 Check out what I'm currently working on
 
-- [phpmyadmin/composer](https://github.com/phpmyadmin/composer) - Read only composer repository for phpMyAdmin (today)
-- [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB (today)
-- [phpmyadmin/coding-standard](https://github.com/phpmyadmin/coding-standard) - phpMyAdmin PHP CodeSniffer Coding Standard (5 days ago)
+- [phpmyadmin/composer](https://github.com/phpmyadmin/composer) - Read only composer repository for phpMyAdmin (1 day ago)
+- [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB (1 day ago)
+- [phpmyadmin/coding-standard](https://github.com/phpmyadmin/coding-standard) - phpMyAdmin PHP CodeSniffer Coding Standard (6 days ago)
 - [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) - A validating SQL lexer and parser with a focus on MySQL dialect. (1 week ago)
 - [phpmyadmin/shapefile](https://github.com/phpmyadmin/shapefile) - ESRI ShapeFile library for PHP (1 week ago)
 - [phpmyadmin/motranslator](https://github.com/phpmyadmin/motranslator) - Translation API for PHP using Gettext MO files (1 week ago)
@@ -24,17 +24,17 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 🔨 My recent Pull Requests
 
-- [Suppress PHP deprecations from third-party packages](https://github.com/phpmyadmin/phpmyadmin/pull/19932) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (today)
-- [Fix some PHP 8.5 deprecations](https://github.com/phpmyadmin/phpmyadmin/pull/19929) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (today)
-- [Fix collation error when checking for grant permission](https://github.com/phpmyadmin/phpmyadmin/pull/19923) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (4 days ago)
-- [Extract DbiDummy assertions from AbstractTestCase](https://github.com/phpmyadmin/phpmyadmin/pull/19922) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (4 days ago)
-- [Update Composer dependencies](https://github.com/phpmyadmin/phpmyadmin/pull/19920) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (4 days ago)
+- [Suppress PHP deprecations from third-party packages](https://github.com/phpmyadmin/phpmyadmin/pull/19932) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 day ago)
+- [Fix some PHP 8.5 deprecations](https://github.com/phpmyadmin/phpmyadmin/pull/19929) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 day ago)
+- [Fix collation error when checking for grant permission](https://github.com/phpmyadmin/phpmyadmin/pull/19923) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (5 days ago)
+- [Extract DbiDummy assertions from AbstractTestCase](https://github.com/phpmyadmin/phpmyadmin/pull/19922) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (5 days ago)
+- [Update Composer dependencies](https://github.com/phpmyadmin/phpmyadmin/pull/19920) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (5 days ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpmyadmin/coding-standard](https://github.com/phpmyadmin/coding-standard) ([4.1.0](https://github.com/phpmyadmin/coding-standard/releases/tag/4.1.0), 5 days ago) - phpMyAdmin PHP CodeSniffer Coding Standard
+- [phpmyadmin/coding-standard](https://github.com/phpmyadmin/coding-standard) ([4.1.0](https://github.com/phpmyadmin/coding-standard/releases/tag/4.1.0), 6 days ago) - phpMyAdmin PHP CodeSniffer Coding Standard
 - [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) ([6.0.0](https://github.com/phpmyadmin/sql-parser/releases/tag/6.0.0), 1 week ago) - A validating SQL lexer and parser with a focus on MySQL dialect.
 - [phpmyadmin/motranslator](https://github.com/phpmyadmin/motranslator) ([6.0.0](https://github.com/phpmyadmin/motranslator/releases/tag/6.0.0), 1 week ago) - Translation API for PHP using Gettext MO files
 - [phpmyadmin/shapefile](https://github.com/phpmyadmin/shapefile) ([4.0.0](https://github.com/phpmyadmin/shapefile/releases/tag/4.0.0), 1 week ago) - ESRI ShapeFile library for PHP
