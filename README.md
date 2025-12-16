@@ -24,11 +24,11 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 🔨 My recent Pull Requests
 
+- [Fix create table e2e failing test](https://github.com/phpmyadmin/phpmyadmin/pull/19992) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (today)
 - [Update Composer dependencies](https://github.com/phpmyadmin/phpmyadmin/pull/19975) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
 - [Update Yarn dependencies](https://github.com/phpmyadmin/phpmyadmin/pull/19974) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
 - [Suppress PHP deprecations from third-party packages](https://github.com/phpmyadmin/phpmyadmin/pull/19932) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 month ago)
 - [Fix some PHP 8.5 deprecations](https://github.com/phpmyadmin/phpmyadmin/pull/19929) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 month ago)
-- [Fix collation error when checking for grant permission](https://github.com/phpmyadmin/phpmyadmin/pull/19923) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 month ago)
 
 ---
 
