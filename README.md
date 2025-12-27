@@ -11,8 +11,8 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 👷 Check out what I'm currently working on
 
-- [phpmyadmin/composer](https://github.com/phpmyadmin/composer) - Read only composer repository for phpMyAdmin (2 days ago)
-- [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB (2 days ago)
+- [phpmyadmin/composer](https://github.com/phpmyadmin/composer) - Read only composer repository for phpMyAdmin (3 days ago)
+- [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB (3 days ago)
 - [phpmyadmin/coding-standard](https://github.com/phpmyadmin/coding-standard) - phpMyAdmin PHP CodeSniffer Coding Standard (1 month ago)
 - [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) - A validating SQL lexer and parser with a focus on MySQL dialect. (1 month ago)
 - [phpmyadmin/shapefile](https://github.com/phpmyadmin/shapefile) - ESRI ShapeFile library for PHP (1 month ago)
@@ -24,9 +24,9 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 🔨 My recent Pull Requests
 
-- [Extract dependencies from Authentication middleware](https://github.com/phpmyadmin/phpmyadmin/pull/20002) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (3 days ago)
+- [Extract dependencies from Authentication middleware](https://github.com/phpmyadmin/phpmyadmin/pull/20002) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (4 days ago)
 - [Fix failing end to end tests](https://github.com/phpmyadmin/phpmyadmin/pull/19992) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
-- [Update Composer dependencies](https://github.com/phpmyadmin/phpmyadmin/pull/19975) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (2 weeks ago)
+- [Update Composer dependencies](https://github.com/phpmyadmin/phpmyadmin/pull/19975) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (3 weeks ago)
 - [Update Yarn dependencies](https://github.com/phpmyadmin/phpmyadmin/pull/19974) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (3 weeks ago)
 - [Suppress PHP deprecations from third-party packages](https://github.com/phpmyadmin/phpmyadmin/pull/19932) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 month ago)
 
