@@ -24,11 +24,11 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 🔨 My recent Pull Requests
 
+- [Extract dependencies from Header](https://github.com/phpmyadmin/phpmyadmin/pull/20009) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (today)
 - [Extract dependencies from Authentication middleware](https://github.com/phpmyadmin/phpmyadmin/pull/20002) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
 - [Fix failing end to end tests](https://github.com/phpmyadmin/phpmyadmin/pull/19992) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (2 weeks ago)
 - [Update Composer dependencies](https://github.com/phpmyadmin/phpmyadmin/pull/19975) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (4 weeks ago)
 - [Update Yarn dependencies](https://github.com/phpmyadmin/phpmyadmin/pull/19974) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 month ago)
-- [Suppress PHP deprecations from third-party packages](https://github.com/phpmyadmin/phpmyadmin/pull/19932) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 month ago)
 
 ---
 
