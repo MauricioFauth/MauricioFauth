@@ -11,8 +11,8 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 👷 Check out what I'm currently working on
 
-- [phpmyadmin/composer](https://github.com/phpmyadmin/composer) - Read only composer repository for phpMyAdmin (today)
-- [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB (today)
+- [phpmyadmin/composer](https://github.com/phpmyadmin/composer) - Read only composer repository for phpMyAdmin (1 day ago)
+- [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB (1 day ago)
 - [phpmyadmin/coding-standard](https://github.com/phpmyadmin/coding-standard) - phpMyAdmin PHP CodeSniffer Coding Standard (2 months ago)
 - [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) - A validating SQL lexer and parser with a focus on MySQL dialect. (2 months ago)
 - [phpmyadmin/shapefile](https://github.com/phpmyadmin/shapefile) - ESRI ShapeFile library for PHP (2 months ago)
@@ -24,9 +24,9 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 🔨 My recent Pull Requests
 
-- [Extract dependencies from Header](https://github.com/phpmyadmin/phpmyadmin/pull/20009) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 day ago)
-- [Extract dependencies from Authentication middleware](https://github.com/phpmyadmin/phpmyadmin/pull/20002) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
-- [Fix failing end to end tests](https://github.com/phpmyadmin/phpmyadmin/pull/19992) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (2 weeks ago)
+- [Extract dependencies from Header](https://github.com/phpmyadmin/phpmyadmin/pull/20009) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (2 days ago)
+- [Extract dependencies from Authentication middleware](https://github.com/phpmyadmin/phpmyadmin/pull/20002) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (2 weeks ago)
+- [Fix failing end to end tests](https://github.com/phpmyadmin/phpmyadmin/pull/19992) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (3 weeks ago)
 - [Update Composer dependencies](https://github.com/phpmyadmin/phpmyadmin/pull/19975) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 month ago)
 - [Update Yarn dependencies](https://github.com/phpmyadmin/phpmyadmin/pull/19974) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 month ago)
 
@@ -38,7 +38,7 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 - [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) ([6.0.0](https://github.com/phpmyadmin/sql-parser/releases/tag/6.0.0), 2 months ago) - A validating SQL lexer and parser with a focus on MySQL dialect.
 - [phpmyadmin/motranslator](https://github.com/phpmyadmin/motranslator) ([6.0.0](https://github.com/phpmyadmin/motranslator/releases/tag/6.0.0), 2 months ago) - Translation API for PHP using Gettext MO files
 - [phpmyadmin/shapefile](https://github.com/phpmyadmin/shapefile) ([4.0.0](https://github.com/phpmyadmin/shapefile/releases/tag/4.0.0), 2 months ago) - ESRI ShapeFile library for PHP
-- [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) ([RELEASE_5_2_3](https://github.com/phpmyadmin/phpmyadmin/releases/tag/RELEASE_5_2_3), 2 months ago) - A web interface for MySQL and MariaDB
+- [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) ([RELEASE_5_2_3](https://github.com/phpmyadmin/phpmyadmin/releases/tag/RELEASE_5_2_3), 3 months ago) - A web interface for MySQL and MariaDB
 
 ---
 
