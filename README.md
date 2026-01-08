@@ -24,11 +24,11 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 🔨 My recent Pull Requests
 
+- [Extract function to load services from services file](https://github.com/phpmyadmin/phpmyadmin/pull/20015) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (today)
 - [Replace custom service names with the class names](https://github.com/phpmyadmin/phpmyadmin/pull/20013) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (2 days ago)
 - [Extract dependencies from Header](https://github.com/phpmyadmin/phpmyadmin/pull/20009) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (4 days ago)
 - [Extract dependencies from Authentication middleware](https://github.com/phpmyadmin/phpmyadmin/pull/20002) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (2 weeks ago)
 - [Fix failing end to end tests](https://github.com/phpmyadmin/phpmyadmin/pull/19992) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (3 weeks ago)
-- [Update Composer dependencies](https://github.com/phpmyadmin/phpmyadmin/pull/19975) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 month ago)
 
 ---
 
