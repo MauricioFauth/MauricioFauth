@@ -24,11 +24,11 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 🔨 My recent Pull Requests
 
+- [Test Core::getNoCacheHeaders() with a frozen clock](https://github.com/phpmyadmin/phpmyadmin/pull/20030) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (today)
 - [Refactor the sql/bookmark.twig template](https://github.com/phpmyadmin/phpmyadmin/pull/20028) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (2 days ago)
 - [Replace request globals with ServerRequest object in Sql and Display\Results classes](https://github.com/phpmyadmin/phpmyadmin/pull/20022) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (6 days ago)
 - [Update Composer dependencies](https://github.com/phpmyadmin/phpmyadmin/pull/20019) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
 - [Extract user preferences handling from Config class](https://github.com/phpmyadmin/phpmyadmin/pull/20016) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
-- [Extract function to load services from services file](https://github.com/phpmyadmin/phpmyadmin/pull/20015) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
 
 ---
 
