@@ -11,8 +11,8 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 👷 Check out what I'm currently working on
 
-- [phpmyadmin/composer](https://github.com/phpmyadmin/composer) - Read only composer repository for phpMyAdmin (2 days ago)
-- [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB (2 days ago)
+- [phpmyadmin/composer](https://github.com/phpmyadmin/composer) - Read only composer repository for phpMyAdmin (3 days ago)
+- [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB (3 days ago)
 - [phpmyadmin/coding-standard](https://github.com/phpmyadmin/coding-standard) - phpMyAdmin PHP CodeSniffer Coding Standard (2 months ago)
 - [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) - A validating SQL lexer and parser with a focus on MySQL dialect. (2 months ago)
 - [phpmyadmin/shapefile](https://github.com/phpmyadmin/shapefile) - ESRI ShapeFile library for PHP (2 months ago)
@@ -24,9 +24,9 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 🔨 My recent Pull Requests
 
-- [Fix case where user preferences are not removed](https://github.com/phpmyadmin/phpmyadmin/pull/20047) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 day ago)
-- [Introduce support for PSR-20 ClockInterface](https://github.com/phpmyadmin/phpmyadmin/pull/20031) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (6 days ago)
-- [Test Core::getNoCacheHeaders() with a frozen clock](https://github.com/phpmyadmin/phpmyadmin/pull/20030) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (6 days ago)
+- [Fix case where user preferences are not removed](https://github.com/phpmyadmin/phpmyadmin/pull/20047) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (2 days ago)
+- [Introduce support for PSR-20 ClockInterface](https://github.com/phpmyadmin/phpmyadmin/pull/20031) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
+- [Test Core::getNoCacheHeaders() with a frozen clock](https://github.com/phpmyadmin/phpmyadmin/pull/20030) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
 - [Refactor the sql/bookmark.twig template](https://github.com/phpmyadmin/phpmyadmin/pull/20028) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
 - [Replace request globals with ServerRequest object in Sql and Display\Results classes](https://github.com/phpmyadmin/phpmyadmin/pull/20022) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
 
