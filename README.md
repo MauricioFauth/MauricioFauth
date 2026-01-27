@@ -24,11 +24,11 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 🔨 My recent Pull Requests
 
+- [Add unit tests for Import\Import::analyzeTable()](https://github.com/phpmyadmin/phpmyadmin/pull/20051) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (today)
 - [Fix case where user preferences are not removed](https://github.com/phpmyadmin/phpmyadmin/pull/20047) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (3 days ago)
 - [Introduce support for PSR-20 ClockInterface](https://github.com/phpmyadmin/phpmyadmin/pull/20031) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
 - [Test Core::getNoCacheHeaders() with a frozen clock](https://github.com/phpmyadmin/phpmyadmin/pull/20030) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
 - [Refactor the sql/bookmark.twig template](https://github.com/phpmyadmin/phpmyadmin/pull/20028) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
-- [Replace request globals with ServerRequest object in Sql and Display\Results classes](https://github.com/phpmyadmin/phpmyadmin/pull/20022) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (2 weeks ago)
 
 ---
 
