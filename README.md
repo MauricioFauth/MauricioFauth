@@ -11,12 +11,12 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 👷 Check out what I'm currently working on
 
-- [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB (today)
 - [phpmyadmin/composer](https://github.com/phpmyadmin/composer) - Read only composer repository for phpMyAdmin (1 day ago)
-- [phpmyadmin/coding-standard](https://github.com/phpmyadmin/coding-standard) - phpMyAdmin PHP CodeSniffer Coding Standard (2 months ago)
-- [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) - A validating SQL lexer and parser with a focus on MySQL dialect. (2 months ago)
-- [phpmyadmin/shapefile](https://github.com/phpmyadmin/shapefile) - ESRI ShapeFile library for PHP (2 months ago)
-- [phpmyadmin/motranslator](https://github.com/phpmyadmin/motranslator) - Translation API for PHP using Gettext MO files (2 months ago)
+- [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB (1 day ago)
+- [phpmyadmin/coding-standard](https://github.com/phpmyadmin/coding-standard) - phpMyAdmin PHP CodeSniffer Coding Standard (3 months ago)
+- [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) - A validating SQL lexer and parser with a focus on MySQL dialect. (3 months ago)
+- [phpmyadmin/shapefile](https://github.com/phpmyadmin/shapefile) - ESRI ShapeFile library for PHP (3 months ago)
+- [phpmyadmin/motranslator](https://github.com/phpmyadmin/motranslator) - Translation API for PHP using Gettext MO files (3 months ago)
 - [phpmyadmin/twig-i18n-extension](https://github.com/phpmyadmin/twig-i18n-extension) - The phpMyAdmin project&#39;s fork of the Twig i18n extension (4 months ago)
 - [php/web-php](https://github.com/php/web-php) - The www.php.net site (6 months ago)
 
@@ -24,21 +24,21 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 🔨 My recent Pull Requests
 
-- [Add unit tests for Import\Import::analyzeTable()](https://github.com/phpmyadmin/phpmyadmin/pull/20051) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (today)
-- [Fix case where user preferences are not removed](https://github.com/phpmyadmin/phpmyadmin/pull/20047) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (3 days ago)
-- [Introduce support for PSR-20 ClockInterface](https://github.com/phpmyadmin/phpmyadmin/pull/20031) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
-- [Test Core::getNoCacheHeaders() with a frozen clock](https://github.com/phpmyadmin/phpmyadmin/pull/20030) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
-- [Refactor the sql/bookmark.twig template](https://github.com/phpmyadmin/phpmyadmin/pull/20028) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
+- [Add some unit tests](https://github.com/phpmyadmin/phpmyadmin/pull/20077) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 day ago)
+- [Update Composer dependencies](https://github.com/phpmyadmin/phpmyadmin/pull/20075) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (2 days ago)
+- [Extract DatabaseInterface dependency from Navigation\Nodes](https://github.com/phpmyadmin/phpmyadmin/pull/20066) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (6 days ago)
+- [Extract dependencies from some Util methods](https://github.com/phpmyadmin/phpmyadmin/pull/20058) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
+- [Extract dependencies from export plugins](https://github.com/phpmyadmin/phpmyadmin/pull/20056) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpmyadmin/coding-standard](https://github.com/phpmyadmin/coding-standard) ([4.1.0](https://github.com/phpmyadmin/coding-standard/releases/tag/4.1.0), 2 months ago) - phpMyAdmin PHP CodeSniffer Coding Standard
-- [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) ([6.0.0](https://github.com/phpmyadmin/sql-parser/releases/tag/6.0.0), 2 months ago) - A validating SQL lexer and parser with a focus on MySQL dialect.
-- [phpmyadmin/motranslator](https://github.com/phpmyadmin/motranslator) ([6.0.0](https://github.com/phpmyadmin/motranslator/releases/tag/6.0.0), 2 months ago) - Translation API for PHP using Gettext MO files
-- [phpmyadmin/shapefile](https://github.com/phpmyadmin/shapefile) ([4.0.0](https://github.com/phpmyadmin/shapefile/releases/tag/4.0.0), 2 months ago) - ESRI ShapeFile library for PHP
-- [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) ([RELEASE_5_2_3](https://github.com/phpmyadmin/phpmyadmin/releases/tag/RELEASE_5_2_3), 3 months ago) - A web interface for MySQL and MariaDB
+- [phpmyadmin/coding-standard](https://github.com/phpmyadmin/coding-standard) ([4.1.0](https://github.com/phpmyadmin/coding-standard/releases/tag/4.1.0), 3 months ago) - phpMyAdmin PHP CodeSniffer Coding Standard
+- [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) ([6.0.0](https://github.com/phpmyadmin/sql-parser/releases/tag/6.0.0), 3 months ago) - A validating SQL lexer and parser with a focus on MySQL dialect.
+- [phpmyadmin/motranslator](https://github.com/phpmyadmin/motranslator) ([6.0.0](https://github.com/phpmyadmin/motranslator/releases/tag/6.0.0), 3 months ago) - Translation API for PHP using Gettext MO files
+- [phpmyadmin/shapefile](https://github.com/phpmyadmin/shapefile) ([4.0.0](https://github.com/phpmyadmin/shapefile/releases/tag/4.0.0), 3 months ago) - ESRI ShapeFile library for PHP
+- [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) ([RELEASE_5_2_3](https://github.com/phpmyadmin/phpmyadmin/releases/tag/RELEASE_5_2_3), 4 months ago) - A web interface for MySQL and MariaDB
 
 ---
 
