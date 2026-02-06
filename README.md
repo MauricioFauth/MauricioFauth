@@ -24,11 +24,11 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 🔨 My recent Pull Requests
 
+- [Extract HTML from some controller tests into a fixture file](https://github.com/phpmyadmin/phpmyadmin/pull/20083) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (today)
 - [Add some unit tests](https://github.com/phpmyadmin/phpmyadmin/pull/20077) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 day ago)
 - [Update Composer dependencies](https://github.com/phpmyadmin/phpmyadmin/pull/20075) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (2 days ago)
 - [Extract DatabaseInterface dependency from Navigation\Nodes](https://github.com/phpmyadmin/phpmyadmin/pull/20066) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (6 days ago)
 - [Extract dependencies from some Util methods](https://github.com/phpmyadmin/phpmyadmin/pull/20058) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
-- [Extract dependencies from export plugins](https://github.com/phpmyadmin/phpmyadmin/pull/20056) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
 
 ---
 
