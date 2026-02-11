@@ -24,11 +24,11 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 🔨 My recent Pull Requests
 
+- [Refactor Table\SqlControllerTest test class](https://github.com/phpmyadmin/phpmyadmin/pull/20097) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (today)
 - [Fix issue after merge 17e3414](https://github.com/phpmyadmin/phpmyadmin/pull/20094) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (today)
 - [Update Yarn dependencies](https://github.com/phpmyadmin/phpmyadmin/pull/20089) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (4 days ago)
 - [Extract HTML from some controller tests into a fixture file](https://github.com/phpmyadmin/phpmyadmin/pull/20083) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (5 days ago)
 - [Add some unit tests](https://github.com/phpmyadmin/phpmyadmin/pull/20077) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (6 days ago)
-- [Update Composer dependencies](https://github.com/phpmyadmin/phpmyadmin/pull/20075) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
 
 ---
 
