@@ -5,8 +5,6 @@ I am **Maurício Meneghini Fauth**, a PHP developer and member of the [phpMyAdmi
 You can support my work on phpMyAdmin through [GitHub Sponsors](https://github.com/sponsors/MauricioFauth)
 or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=github).
 
-You can also send a donation via [Pix](https://en.wikipedia.org/wiki/Pix_(payment_system)) to `pix@mauriciofauth.com.br`.
-
 🐘⛵
 
 ---
