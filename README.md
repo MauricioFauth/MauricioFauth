@@ -13,23 +13,23 @@ You can also send a donation via [Pix](https://en.wikipedia.org/wiki/Pix_(paymen
 
 #### 👷 Check out what I'm currently working on
 
-- [phpmyadmin/composer](https://github.com/phpmyadmin/composer) - Read only composer repository for phpMyAdmin (1 day ago)
-- [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB (1 day ago)
+- [phpmyadmin/composer](https://github.com/phpmyadmin/composer) - Read only composer repository for phpMyAdmin (2 days ago)
+- [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB (2 days ago)
 - [phpmyadmin/coding-standard](https://github.com/phpmyadmin/coding-standard) - phpMyAdmin PHP CodeSniffer Coding Standard (3 months ago)
 - [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) - A validating SQL lexer and parser with a focus on MySQL dialect. (3 months ago)
 - [phpmyadmin/shapefile](https://github.com/phpmyadmin/shapefile) - ESRI ShapeFile library for PHP (3 months ago)
 - [phpmyadmin/motranslator](https://github.com/phpmyadmin/motranslator) - Translation API for PHP using Gettext MO files (3 months ago)
 - [phpmyadmin/twig-i18n-extension](https://github.com/phpmyadmin/twig-i18n-extension) - The phpMyAdmin project&#39;s fork of the Twig i18n extension (4 months ago)
-- [php/web-php](https://github.com/php/web-php) - The www.php.net site (6 months ago)
+- [php/web-php](https://github.com/php/web-php) - The www.php.net site (7 months ago)
 
 ---
 
 #### 🔨 My recent Pull Requests
 
-- [Remove side effects from Header constructor](https://github.com/phpmyadmin/phpmyadmin/pull/20100) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 day ago)
-- [Extract Config dependency from Template class](https://github.com/phpmyadmin/phpmyadmin/pull/20098) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (2 days ago)
-- [Refactor Table\SqlControllerTest test class](https://github.com/phpmyadmin/phpmyadmin/pull/20097) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (3 days ago)
-- [Fix issue after merge 17e3414](https://github.com/phpmyadmin/phpmyadmin/pull/20094) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (3 days ago)
+- [Remove side effects from Header constructor](https://github.com/phpmyadmin/phpmyadmin/pull/20100) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (2 days ago)
+- [Extract Config dependency from Template class](https://github.com/phpmyadmin/phpmyadmin/pull/20098) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (3 days ago)
+- [Refactor Table\SqlControllerTest test class](https://github.com/phpmyadmin/phpmyadmin/pull/20097) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (4 days ago)
+- [Fix issue after merge 17e3414](https://github.com/phpmyadmin/phpmyadmin/pull/20094) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (4 days ago)
 - [Update Yarn dependencies](https://github.com/phpmyadmin/phpmyadmin/pull/20089) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
 
 ---
