@@ -13,8 +13,8 @@ You can also send a donation via [Pix](https://en.wikipedia.org/wiki/Pix_(paymen
 
 #### 👷 Check out what I'm currently working on
 
-- [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB (today)
-- [phpmyadmin/composer](https://github.com/phpmyadmin/composer) - Read only composer repository for phpMyAdmin (3 days ago)
+- [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB (1 day ago)
+- [phpmyadmin/composer](https://github.com/phpmyadmin/composer) - Read only composer repository for phpMyAdmin (4 days ago)
 - [phpmyadmin/coding-standard](https://github.com/phpmyadmin/coding-standard) - phpMyAdmin PHP CodeSniffer Coding Standard (3 months ago)
 - [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) - A validating SQL lexer and parser with a focus on MySQL dialect. (3 months ago)
 - [phpmyadmin/shapefile](https://github.com/phpmyadmin/shapefile) - ESRI ShapeFile library for PHP (3 months ago)
@@ -26,10 +26,10 @@ You can also send a donation via [Pix](https://en.wikipedia.org/wiki/Pix_(paymen
 
 #### 🔨 My recent Pull Requests
 
-- [Remove side effects from Header constructor](https://github.com/phpmyadmin/phpmyadmin/pull/20100) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (3 days ago)
-- [Extract Config dependency from Template class](https://github.com/phpmyadmin/phpmyadmin/pull/20098) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (4 days ago)
-- [Refactor Table\SqlControllerTest test class](https://github.com/phpmyadmin/phpmyadmin/pull/20097) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (5 days ago)
-- [Fix issue after merge 17e3414](https://github.com/phpmyadmin/phpmyadmin/pull/20094) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (5 days ago)
+- [Remove side effects from Header constructor](https://github.com/phpmyadmin/phpmyadmin/pull/20100) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (4 days ago)
+- [Extract Config dependency from Template class](https://github.com/phpmyadmin/phpmyadmin/pull/20098) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (5 days ago)
+- [Refactor Table\SqlControllerTest test class](https://github.com/phpmyadmin/phpmyadmin/pull/20097) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (6 days ago)
+- [Fix issue after merge 17e3414](https://github.com/phpmyadmin/phpmyadmin/pull/20094) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (6 days ago)
 - [Update Yarn dependencies](https://github.com/phpmyadmin/phpmyadmin/pull/20089) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
 
 ---
