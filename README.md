@@ -26,11 +26,11 @@ You can also send a donation via [Pix](https://en.wikipedia.org/wiki/Pix_(paymen
 
 #### 🔨 My recent Pull Requests
 
+- [Extract ResponseRenderer dependency from some classes](https://github.com/phpmyadmin/phpmyadmin/pull/20130) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (today)
 - [Remove side effects from Header constructor](https://github.com/phpmyadmin/phpmyadmin/pull/20100) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (6 days ago)
 - [Extract Config dependency from Template class](https://github.com/phpmyadmin/phpmyadmin/pull/20098) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
 - [Refactor Table\SqlControllerTest test class](https://github.com/phpmyadmin/phpmyadmin/pull/20097) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
 - [Fix issue after merge 17e3414](https://github.com/phpmyadmin/phpmyadmin/pull/20094) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
-- [Update Yarn dependencies](https://github.com/phpmyadmin/phpmyadmin/pull/20089) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
 
 ---
 
