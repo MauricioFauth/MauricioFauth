@@ -26,11 +26,11 @@ You can also send a donation via [Pix](https://en.wikipedia.org/wiki/Pix_(paymen
 
 #### 🔨 My recent Pull Requests
 
+- [Refactor Privileges::getDataForChangeOrCopyUser()](https://github.com/phpmyadmin/phpmyadmin/pull/20169) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (today)
 - [Inline some methods from AbstractTestCase](https://github.com/phpmyadmin/phpmyadmin/pull/20148) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (3 days ago)
 - [Fix failing unit tests](https://github.com/phpmyadmin/phpmyadmin/pull/20146) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (3 days ago)
 - [Extract ResponseRenderer dependency from some classes](https://github.com/phpmyadmin/phpmyadmin/pull/20130) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (4 days ago)
 - [Remove side effects from Header constructor](https://github.com/phpmyadmin/phpmyadmin/pull/20100) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
-- [Extract Config dependency from Template class](https://github.com/phpmyadmin/phpmyadmin/pull/20098) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
 
 ---
 
