@@ -26,11 +26,11 @@ You can also send a donation via [Pix](https://en.wikipedia.org/wiki/Pix_(paymen
 
 #### 🔨 My recent Pull Requests
 
+- [Refactor Config\SettingsTest unit tests](https://github.com/phpmyadmin/phpmyadmin/pull/20258) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (today)
 - [Fix failing PluginsTest in QA_5_2](https://github.com/phpmyadmin/phpmyadmin/pull/20252) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (5 days ago)
 - [Upgrade Yarn dependencies](https://github.com/phpmyadmin/phpmyadmin/pull/20251) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (5 days ago)
 - [Add --no-cache --threads=max to composer update:baselines](https://github.com/phpmyadmin/phpmyadmin/pull/20228) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (2 weeks ago)
 - [Fix failing tests](https://github.com/phpmyadmin/phpmyadmin/pull/20225) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (2 weeks ago)
-- [Add unit tests for some controller classes](https://github.com/phpmyadmin/phpmyadmin/pull/20202) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (3 weeks ago)
 
 ---
 
