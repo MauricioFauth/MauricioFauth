@@ -13,8 +13,8 @@ You can also send a donation via [Pix](https://en.wikipedia.org/wiki/Pix_(paymen
 
 #### 👷 Check out what I'm currently working on
 
-- [phpmyadmin/composer](https://github.com/phpmyadmin/composer) - Read only composer repository for phpMyAdmin (2 days ago)
-- [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB (2 days ago)
+- [phpmyadmin/composer](https://github.com/phpmyadmin/composer) - Read only composer repository for phpMyAdmin (3 days ago)
+- [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB (3 days ago)
 - [phpmyadmin/coding-standard](https://github.com/phpmyadmin/coding-standard) - phpMyAdmin PHP CodeSniffer Coding Standard (4 months ago)
 - [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) - A validating SQL lexer and parser with a focus on MySQL dialect. (5 months ago)
 - [phpmyadmin/shapefile](https://github.com/phpmyadmin/shapefile) - ESRI ShapeFile library for PHP (5 months ago)
@@ -26,7 +26,7 @@ You can also send a donation via [Pix](https://en.wikipedia.org/wiki/Pix_(paymen
 
 #### 🔨 My recent Pull Requests
 
-- [Refactor Config\SettingsTest unit tests](https://github.com/phpmyadmin/phpmyadmin/pull/20258) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (6 days ago)
+- [Refactor Config\SettingsTest unit tests](https://github.com/phpmyadmin/phpmyadmin/pull/20258) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
 - [Fix failing PluginsTest in QA_5_2](https://github.com/phpmyadmin/phpmyadmin/pull/20252) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
 - [Upgrade Yarn dependencies](https://github.com/phpmyadmin/phpmyadmin/pull/20251) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
 - [Add --no-cache --threads=max to composer update:baselines](https://github.com/phpmyadmin/phpmyadmin/pull/20228) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (3 weeks ago)
