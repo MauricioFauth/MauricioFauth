@@ -13,9 +13,9 @@ You can also send a donation via [Pix](https://en.wikipedia.org/wiki/Pix_(paymen
 
 #### 👷 Check out what I'm currently working on
 
-- [phpmyadmin/composer](https://github.com/phpmyadmin/composer) - Read only composer repository for phpMyAdmin (2 days ago)
-- [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB (2 days ago)
-- [phpmyadmin/coding-standard](https://github.com/phpmyadmin/coding-standard) - phpMyAdmin PHP CodeSniffer Coding Standard (4 months ago)
+- [phpmyadmin/composer](https://github.com/phpmyadmin/composer) - Read only composer repository for phpMyAdmin (3 days ago)
+- [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB (3 days ago)
+- [phpmyadmin/coding-standard](https://github.com/phpmyadmin/coding-standard) - phpMyAdmin PHP CodeSniffer Coding Standard (5 months ago)
 - [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) - A validating SQL lexer and parser with a focus on MySQL dialect. (5 months ago)
 - [phpmyadmin/shapefile](https://github.com/phpmyadmin/shapefile) - ESRI ShapeFile library for PHP (5 months ago)
 - [phpmyadmin/motranslator](https://github.com/phpmyadmin/motranslator) - Translation API for PHP using Gettext MO files (5 months ago)
@@ -36,7 +36,7 @@ You can also send a donation via [Pix](https://en.wikipedia.org/wiki/Pix_(paymen
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpmyadmin/coding-standard](https://github.com/phpmyadmin/coding-standard) ([4.1.0](https://github.com/phpmyadmin/coding-standard/releases/tag/4.1.0), 4 months ago) - phpMyAdmin PHP CodeSniffer Coding Standard
+- [phpmyadmin/coding-standard](https://github.com/phpmyadmin/coding-standard) ([4.1.0](https://github.com/phpmyadmin/coding-standard/releases/tag/4.1.0), 5 months ago) - phpMyAdmin PHP CodeSniffer Coding Standard
 - [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) ([6.0.0](https://github.com/phpmyadmin/sql-parser/releases/tag/6.0.0), 5 months ago) - A validating SQL lexer and parser with a focus on MySQL dialect.
 - [phpmyadmin/motranslator](https://github.com/phpmyadmin/motranslator) ([6.0.0](https://github.com/phpmyadmin/motranslator/releases/tag/6.0.0), 5 months ago) - Translation API for PHP using Gettext MO files
 - [phpmyadmin/shapefile](https://github.com/phpmyadmin/shapefile) ([4.0.0](https://github.com/phpmyadmin/shapefile/releases/tag/4.0.0), 5 months ago) - ESRI ShapeFile library for PHP
