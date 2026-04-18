@@ -29,8 +29,8 @@ You can also send a donation via [Pix](https://en.wikipedia.org/wiki/Pix_(paymen
 - [Replace var with let or const in TypeScript files](https://github.com/phpmyadmin/phpmyadmin/pull/20274) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
 - [Fix .gitignore for *.pyc files](https://github.com/phpmyadmin/phpmyadmin/pull/20273) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
 - [Refactor Config\SettingsTest unit tests](https://github.com/phpmyadmin/phpmyadmin/pull/20258) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (3 weeks ago)
-- [Fix failing PluginsTest in QA_5_2](https://github.com/phpmyadmin/phpmyadmin/pull/20252) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (3 weeks ago)
-- [Upgrade Yarn dependencies](https://github.com/phpmyadmin/phpmyadmin/pull/20251) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (3 weeks ago)
+- [Fix failing PluginsTest in QA_5_2](https://github.com/phpmyadmin/phpmyadmin/pull/20252) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (4 weeks ago)
+- [Upgrade Yarn dependencies](https://github.com/phpmyadmin/phpmyadmin/pull/20251) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (4 weeks ago)
 
 ---
 
