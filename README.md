@@ -24,11 +24,11 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 🔨 My recent Pull Requests
 
+- [Update Yarn dependencies](https://github.com/phpmyadmin/phpmyadmin/pull/20288) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (today)
 - [Fix server selection icon alignment in home page](https://github.com/phpmyadmin/phpmyadmin/pull/20286) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (2 days ago)
 - [Replace var with let or const in TypeScript files](https://github.com/phpmyadmin/phpmyadmin/pull/20274) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (2 weeks ago)
 - [Fix .gitignore for *.pyc files](https://github.com/phpmyadmin/phpmyadmin/pull/20273) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (2 weeks ago)
 - [Refactor Config\SettingsTest unit tests](https://github.com/phpmyadmin/phpmyadmin/pull/20258) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (4 weeks ago)
-- [Fix failing PluginsTest in QA_5_2](https://github.com/phpmyadmin/phpmyadmin/pull/20252) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 month ago)
 
 ---
 
