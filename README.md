@@ -26,8 +26,8 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 - [Fork jquery-ui-timepicker-addon](https://github.com/phpmyadmin/phpmyadmin/pull/20299) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
 - [Update Yarn dependencies](https://github.com/phpmyadmin/phpmyadmin/pull/20298) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
-- [Update Composer dependencies](https://github.com/phpmyadmin/phpmyadmin/pull/20289) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
-- [Update Yarn dependencies](https://github.com/phpmyadmin/phpmyadmin/pull/20288) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
+- [Update Composer dependencies](https://github.com/phpmyadmin/phpmyadmin/pull/20289) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (2 weeks ago)
+- [Update Yarn dependencies](https://github.com/phpmyadmin/phpmyadmin/pull/20288) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (2 weeks ago)
 - [Fix server selection icon alignment in home page](https://github.com/phpmyadmin/phpmyadmin/pull/20286) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (2 weeks ago)
 
 ---
