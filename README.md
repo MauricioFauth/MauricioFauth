@@ -24,7 +24,7 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 🔨 My recent Pull Requests
 
-- [Replace TCPDF with tc-lib-pdf](https://github.com/phpmyadmin/phpmyadmin/pull/20305) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (6 days ago)
+- [Replace TCPDF with tc-lib-pdf](https://github.com/phpmyadmin/phpmyadmin/pull/20305) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
 - [Fork jquery-ui-timepicker-addon](https://github.com/phpmyadmin/phpmyadmin/pull/20299) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (2 weeks ago)
 - [Update Yarn dependencies](https://github.com/phpmyadmin/phpmyadmin/pull/20298) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (2 weeks ago)
 - [Update Composer dependencies](https://github.com/phpmyadmin/phpmyadmin/pull/20289) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (3 weeks ago)
