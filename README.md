@@ -11,8 +11,8 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 👷 Check out what I'm currently working on
 
-- [phpmyadmin/composer](https://github.com/phpmyadmin/composer) - Read only composer repository for phpMyAdmin (today)
-- [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB (today)
+- [phpmyadmin/composer](https://github.com/phpmyadmin/composer) - Read only composer repository for phpMyAdmin (1 day ago)
+- [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB (1 day ago)
 - [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) - A validating SQL lexer and parser with a focus on MySQL dialect. (1 month ago)
 - [phpmyadmin/coding-standard](https://github.com/phpmyadmin/coding-standard) - phpMyAdmin PHP CodeSniffer Coding Standard (6 months ago)
 - [phpmyadmin/shapefile](https://github.com/phpmyadmin/shapefile) - ESRI ShapeFile library for PHP (7 months ago)
@@ -24,8 +24,8 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 🔨 My recent Pull Requests
 
-- [Fix PHP deprecations](https://github.com/zumba/json-serializer/pull/78) on [zumba/json-serializer](https://github.com/zumba/json-serializer) (6 days ago)
-- [Add unit tests for Header::getMessage()](https://github.com/phpmyadmin/phpmyadmin/pull/20318) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (6 days ago)
+- [Fix PHP deprecations](https://github.com/zumba/json-serializer/pull/78) on [zumba/json-serializer](https://github.com/zumba/json-serializer) (1 week ago)
+- [Add unit tests for Header::getMessage()](https://github.com/phpmyadmin/phpmyadmin/pull/20318) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
 - [Refactor Header::getMessage()](https://github.com/phpmyadmin/phpmyadmin/pull/20317) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
 - [Fix bookmarks not being properly saved](https://github.com/phpmyadmin/phpmyadmin/pull/20310) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
 - [Update Composer dependencies](https://github.com/phpmyadmin/phpmyadmin/pull/20309) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
@@ -46,3 +46,4 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 - Email: [mauricio@mfauth.com.br](mailto://mauricio@mfauth.com.br)
 - Fediverse: [@mauriciofauth@phpc.social](https://phpc.social/@mauriciofauth)
+- LinkedIn: [mauriciofauth](https://www.linkedin.com/in/mauriciofauth)
