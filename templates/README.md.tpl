@@ -34,3 +34,4 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 - Email: [mauricio@mfauth.com.br](mailto://mauricio@mfauth.com.br)
 - Fediverse: [@mauriciofauth@phpc.social](https://phpc.social/@mauriciofauth)
+- LinkedIn: [mauriciofauth](https://www.linkedin.com/in/mauriciofauth)
