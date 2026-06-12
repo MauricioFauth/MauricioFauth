@@ -27,7 +27,7 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 - [Fix PHP deprecations](https://github.com/zumba/json-serializer/pull/78) on [zumba/json-serializer](https://github.com/zumba/json-serializer) (2 weeks ago)
 - [Add unit tests for Header::getMessage()](https://github.com/phpmyadmin/phpmyadmin/pull/20318) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (2 weeks ago)
 - [Refactor Header::getMessage()](https://github.com/phpmyadmin/phpmyadmin/pull/20317) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (2 weeks ago)
-- [Fix bookmarks not being properly saved](https://github.com/phpmyadmin/phpmyadmin/pull/20310) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (2 weeks ago)
+- [Fix bookmarks not being properly saved](https://github.com/phpmyadmin/phpmyadmin/pull/20310) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (3 weeks ago)
 - [Update Composer dependencies](https://github.com/phpmyadmin/phpmyadmin/pull/20309) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (3 weeks ago)
 
 ---
