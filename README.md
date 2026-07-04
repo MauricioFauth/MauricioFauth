@@ -11,11 +11,11 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 👷 Check out what I'm currently working on
 
-- [phpmyadmin/composer](https://github.com/phpmyadmin/composer) - Read only composer repository for phpMyAdmin (4 days ago)
-- [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB (4 days ago)
+- [phpmyadmin/composer](https://github.com/phpmyadmin/composer) - Read only composer repository for phpMyAdmin (today)
+- [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB (today)
+- [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) - A validating SQL lexer and parser with a focus on MySQL dialect. (today)
 - [phpmyadmin/website](https://github.com/phpmyadmin/website) - phpMyAdmin&#39;s website generator (1 week ago)
-- [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) - A validating SQL lexer and parser with a focus on MySQL dialect. (2 months ago)
-- [phpmyadmin/coding-standard](https://github.com/phpmyadmin/coding-standard) - phpMyAdmin PHP CodeSniffer Coding Standard (7 months ago)
+- [phpmyadmin/coding-standard](https://github.com/phpmyadmin/coding-standard) - phpMyAdmin PHP CodeSniffer Coding Standard (8 months ago)
 - [phpmyadmin/shapefile](https://github.com/phpmyadmin/shapefile) - ESRI ShapeFile library for PHP (8 months ago)
 - [phpmyadmin/motranslator](https://github.com/phpmyadmin/motranslator) - Translation API for PHP using Gettext MO files (8 months ago)
 - [phpmyadmin/twig-i18n-extension](https://github.com/phpmyadmin/twig-i18n-extension) - The phpMyAdmin project&#39;s fork of the Twig i18n extension (9 months ago)
@@ -25,17 +25,17 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 🔨 My recent Pull Requests
 
-- [Add support for PHP 8.6](https://github.com/phpmyadmin/sql-parser/pull/659) on [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) (today)
-- [Add support for PHP 8.6](https://github.com/phpmyadmin/phpmyadmin/pull/20351) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (today)
+- [Update Composer dependencies](https://github.com/phpmyadmin/phpmyadmin/pull/20355) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (today)
+- [Add support for PHP 8.6](https://github.com/phpmyadmin/sql-parser/pull/659) on [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) (1 day ago)
+- [Add support for PHP 8.6](https://github.com/phpmyadmin/phpmyadmin/pull/20351) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 day ago)
 - [Fix PSR-7 host header parsing](https://github.com/phpmyadmin/phpmyadmin/pull/20342) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
 - [Do not persist Git credentials in actions workflows](https://github.com/phpmyadmin/phpmyadmin/pull/20340) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
-- [Update Composer dependencies](https://github.com/phpmyadmin/phpmyadmin/pull/20334) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (2 weeks ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpmyadmin/coding-standard](https://github.com/phpmyadmin/coding-standard) ([4.1.0](https://github.com/phpmyadmin/coding-standard/releases/tag/4.1.0), 7 months ago) - phpMyAdmin PHP CodeSniffer Coding Standard
+- [phpmyadmin/coding-standard](https://github.com/phpmyadmin/coding-standard) ([4.1.0](https://github.com/phpmyadmin/coding-standard/releases/tag/4.1.0), 8 months ago) - phpMyAdmin PHP CodeSniffer Coding Standard
 - [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) ([6.0.0](https://github.com/phpmyadmin/sql-parser/releases/tag/6.0.0), 8 months ago) - A validating SQL lexer and parser with a focus on MySQL dialect.
 - [phpmyadmin/motranslator](https://github.com/phpmyadmin/motranslator) ([6.0.0](https://github.com/phpmyadmin/motranslator/releases/tag/6.0.0), 8 months ago) - Translation API for PHP using Gettext MO files
 - [phpmyadmin/shapefile](https://github.com/phpmyadmin/shapefile) ([4.0.0](https://github.com/phpmyadmin/shapefile/releases/tag/4.0.0), 8 months ago) - ESRI ShapeFile library for PHP
