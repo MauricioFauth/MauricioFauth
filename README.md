@@ -11,25 +11,25 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 👷 Check out what I'm currently working on
 
-- [phpmyadmin/composer](https://github.com/phpmyadmin/composer) - Read only composer repository for phpMyAdmin (1 day ago)
-- [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB (1 day ago)
-- [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) - A validating SQL lexer and parser with a focus on MySQL dialect. (1 day ago)
+- [phpmyadmin/twig-i18n-extension](https://github.com/phpmyadmin/twig-i18n-extension) - The phpMyAdmin project&#39;s fork of the Twig i18n extension (today)
+- [phpmyadmin/composer](https://github.com/phpmyadmin/composer) - Read only composer repository for phpMyAdmin (2 days ago)
+- [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB (2 days ago)
+- [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) - A validating SQL lexer and parser with a focus on MySQL dialect. (2 days ago)
 - [phpmyadmin/website](https://github.com/phpmyadmin/website) - phpMyAdmin&#39;s website generator (1 week ago)
 - [phpmyadmin/coding-standard](https://github.com/phpmyadmin/coding-standard) - phpMyAdmin PHP CodeSniffer Coding Standard (8 months ago)
 - [phpmyadmin/shapefile](https://github.com/phpmyadmin/shapefile) - ESRI ShapeFile library for PHP (8 months ago)
 - [phpmyadmin/motranslator](https://github.com/phpmyadmin/motranslator) - Translation API for PHP using Gettext MO files (8 months ago)
-- [phpmyadmin/twig-i18n-extension](https://github.com/phpmyadmin/twig-i18n-extension) - The phpMyAdmin project&#39;s fork of the Twig i18n extension (9 months ago)
 - [php/web-php](https://github.com/php/web-php) - The www.php.net site (11 months ago)
 
 ---
 
 #### 🔨 My recent Pull Requests
 
-- [Update Composer dependencies](https://github.com/phpmyadmin/phpmyadmin/pull/20355) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 day ago)
-- [Add support for PHP 8.6](https://github.com/phpmyadmin/sql-parser/pull/659) on [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) (2 days ago)
-- [Add support for PHP 8.6](https://github.com/phpmyadmin/phpmyadmin/pull/20351) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (2 days ago)
+- [Add support for PHP 8.6 ](https://github.com/phpmyadmin/twig-i18n-extension/pull/28) on [phpmyadmin/twig-i18n-extension](https://github.com/phpmyadmin/twig-i18n-extension) (today)
+- [Update Composer dependencies](https://github.com/phpmyadmin/phpmyadmin/pull/20355) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (2 days ago)
+- [Add support for PHP 8.6](https://github.com/phpmyadmin/sql-parser/pull/659) on [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) (3 days ago)
+- [Add support for PHP 8.6](https://github.com/phpmyadmin/phpmyadmin/pull/20351) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (3 days ago)
 - [Fix PSR-7 host header parsing](https://github.com/phpmyadmin/phpmyadmin/pull/20342) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
-- [Do not persist Git credentials in actions workflows](https://github.com/phpmyadmin/phpmyadmin/pull/20340) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
 
 ---
 
