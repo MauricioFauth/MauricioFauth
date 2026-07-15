@@ -19,7 +19,7 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 - [phpmyadmin/coding-standard](https://github.com/phpmyadmin/coding-standard) - phpMyAdmin PHP CodeSniffer Coding Standard (8 months ago)
 - [phpmyadmin/shapefile](https://github.com/phpmyadmin/shapefile) - ESRI ShapeFile library for PHP (8 months ago)
 - [phpmyadmin/motranslator](https://github.com/phpmyadmin/motranslator) - Translation API for PHP using Gettext MO files (8 months ago)
-- [php/web-php](https://github.com/php/web-php) - The www.php.net site (11 months ago)
+- [php/web-php](https://github.com/php/web-php) - The www.php.net site (1 year ago)
 
 ---
 
