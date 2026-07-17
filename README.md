@@ -27,9 +27,9 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 - [Add support for PHP 8.6 ](https://github.com/phpmyadmin/twig-i18n-extension/pull/28) on [phpmyadmin/twig-i18n-extension](https://github.com/phpmyadmin/twig-i18n-extension) (1 week ago)
 - [Update Composer dependencies](https://github.com/phpmyadmin/phpmyadmin/pull/20355) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
-- [Add support for PHP 8.6](https://github.com/phpmyadmin/sql-parser/pull/659) on [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) (1 week ago)
-- [Add support for PHP 8.6](https://github.com/phpmyadmin/phpmyadmin/pull/20351) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 week ago)
-- [Fix PSR-7 host header parsing](https://github.com/phpmyadmin/phpmyadmin/pull/20342) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (2 weeks ago)
+- [Add support for PHP 8.6](https://github.com/phpmyadmin/sql-parser/pull/659) on [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) (2 weeks ago)
+- [Add support for PHP 8.6](https://github.com/phpmyadmin/phpmyadmin/pull/20351) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (2 weeks ago)
+- [Fix PSR-7 host header parsing](https://github.com/phpmyadmin/phpmyadmin/pull/20342) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (3 weeks ago)
 
 ---
 
