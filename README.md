@@ -11,7 +11,7 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 👷 Check out what I'm currently working on
 
-- [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB (today)
+- [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB (1 day ago)
 - [phpmyadmin/twig-i18n-extension](https://github.com/phpmyadmin/twig-i18n-extension) - The phpMyAdmin project&#39;s fork of the Twig i18n extension (1 week ago)
 - [phpmyadmin/composer](https://github.com/phpmyadmin/composer) - Read only composer repository for phpMyAdmin (2 weeks ago)
 - [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) - A validating SQL lexer and parser with a focus on MySQL dialect. (2 weeks ago)
@@ -25,9 +25,9 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 🔨 My recent Pull Requests
 
-- [Bump required Node version to 22](https://github.com/phpmyadmin/phpmyadmin/pull/20385) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (today)
-- [Fix create-release.sh script](https://github.com/phpmyadmin/phpmyadmin/pull/20384) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (today)
-- [Update Composer dependencies](https://github.com/phpmyadmin/phpmyadmin/pull/20383) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (today)
+- [Bump required Node version to 22](https://github.com/phpmyadmin/phpmyadmin/pull/20385) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 day ago)
+- [Fix create-release.sh script](https://github.com/phpmyadmin/phpmyadmin/pull/20384) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 day ago)
+- [Update Composer dependencies](https://github.com/phpmyadmin/phpmyadmin/pull/20383) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (1 day ago)
 - [Add support for PHP 8.6 ](https://github.com/phpmyadmin/twig-i18n-extension/pull/28) on [phpmyadmin/twig-i18n-extension](https://github.com/phpmyadmin/twig-i18n-extension) (1 week ago)
 - [Update Composer dependencies](https://github.com/phpmyadmin/phpmyadmin/pull/20355) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (2 weeks ago)
 
