@@ -11,31 +11,31 @@ or by [donating directly to phpMyAdmin](https://www.phpmyadmin.net/donate/?ref=g
 
 #### 👷 Check out what I'm currently working on
 
-- [phpmyadmin/composer](https://github.com/phpmyadmin/composer) - Read only composer repository for phpMyAdmin (1 day ago)
-- [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB (1 day ago)
-- [phpmyadmin/twig-i18n-extension](https://github.com/phpmyadmin/twig-i18n-extension) - The phpMyAdmin project&#39;s fork of the Twig i18n extension (1 day ago)
-- [phpmyadmin/shapefile](https://github.com/phpmyadmin/shapefile) - ESRI ShapeFile library for PHP (1 day ago)
-- [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) - A validating SQL lexer and parser with a focus on MySQL dialect. (1 day ago)
-- [phpmyadmin/motranslator](https://github.com/phpmyadmin/motranslator) - Translation API for PHP using Gettext MO files (1 day ago)
-- [phpmyadmin/coding-standard](https://github.com/phpmyadmin/coding-standard) - phpMyAdmin PHP CodeSniffer Coding Standard (1 day ago)
+- [phpmyadmin/composer](https://github.com/phpmyadmin/composer) - Read only composer repository for phpMyAdmin (2 days ago)
+- [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB (2 days ago)
+- [phpmyadmin/twig-i18n-extension](https://github.com/phpmyadmin/twig-i18n-extension) - The phpMyAdmin project&#39;s fork of the Twig i18n extension (2 days ago)
+- [phpmyadmin/shapefile](https://github.com/phpmyadmin/shapefile) - ESRI ShapeFile library for PHP (2 days ago)
+- [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) - A validating SQL lexer and parser with a focus on MySQL dialect. (2 days ago)
+- [phpmyadmin/motranslator](https://github.com/phpmyadmin/motranslator) - Translation API for PHP using Gettext MO files (2 days ago)
+- [phpmyadmin/coding-standard](https://github.com/phpmyadmin/coding-standard) - phpMyAdmin PHP CodeSniffer Coding Standard (2 days ago)
 - [phpmyadmin/website](https://github.com/phpmyadmin/website) - phpMyAdmin&#39;s website generator (1 month ago)
 
 ---
 
 #### 🔨 My recent Pull Requests
 
-- [Add tests for RequireSingleLineConditionSniff limits](https://github.com/slevomat/coding-standard/pull/1863) on [slevomat/coding-standard](https://github.com/slevomat/coding-standard) (today)
-- [Add support for PHPUnit 10, 11, 12 and 13](https://github.com/phpmyadmin/phpmyadmin/pull/20405) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (3 days ago)
-- [Migrate PHPUnit configuration to version 11.5](https://github.com/phpmyadmin/phpmyadmin/pull/20404) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (3 days ago)
-- [Migrate PHPUnit configuration](https://github.com/phpmyadmin/twig-i18n-extension/pull/34) on [phpmyadmin/twig-i18n-extension](https://github.com/phpmyadmin/twig-i18n-extension) (3 days ago)
-- [Bump PHPStan to version 2.2](https://github.com/phpmyadmin/twig-i18n-extension/pull/33) on [phpmyadmin/twig-i18n-extension](https://github.com/phpmyadmin/twig-i18n-extension) (3 days ago)
+- [Add tests for RequireSingleLineConditionSniff limits](https://github.com/slevomat/coding-standard/pull/1863) on [slevomat/coding-standard](https://github.com/slevomat/coding-standard) (1 day ago)
+- [Add support for PHPUnit 10, 11, 12 and 13](https://github.com/phpmyadmin/phpmyadmin/pull/20405) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (4 days ago)
+- [Migrate PHPUnit configuration to version 11.5](https://github.com/phpmyadmin/phpmyadmin/pull/20404) on [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) (4 days ago)
+- [Migrate PHPUnit configuration](https://github.com/phpmyadmin/twig-i18n-extension/pull/34) on [phpmyadmin/twig-i18n-extension](https://github.com/phpmyadmin/twig-i18n-extension) (4 days ago)
+- [Bump PHPStan to version 2.2](https://github.com/phpmyadmin/twig-i18n-extension/pull/33) on [phpmyadmin/twig-i18n-extension](https://github.com/phpmyadmin/twig-i18n-extension) (4 days ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpmyadmin/twig-i18n-extension](https://github.com/phpmyadmin/twig-i18n-extension) ([4.2.0](https://github.com/phpmyadmin/twig-i18n-extension/releases/tag/4.2.0), 3 days ago) - The phpMyAdmin project&#39;s fork of the Twig i18n extension
-- [phpmyadmin/coding-standard](https://github.com/phpmyadmin/coding-standard) ([3.1.0](https://github.com/phpmyadmin/coding-standard/releases/tag/3.1.0), 4 days ago) - phpMyAdmin PHP CodeSniffer Coding Standard
+- [phpmyadmin/twig-i18n-extension](https://github.com/phpmyadmin/twig-i18n-extension) ([4.2.0](https://github.com/phpmyadmin/twig-i18n-extension/releases/tag/4.2.0), 4 days ago) - The phpMyAdmin project&#39;s fork of the Twig i18n extension
+- [phpmyadmin/coding-standard](https://github.com/phpmyadmin/coding-standard) ([3.1.0](https://github.com/phpmyadmin/coding-standard/releases/tag/3.1.0), 5 days ago) - phpMyAdmin PHP CodeSniffer Coding Standard
 - [phpmyadmin/sql-parser](https://github.com/phpmyadmin/sql-parser) ([6.0.0](https://github.com/phpmyadmin/sql-parser/releases/tag/6.0.0), 9 months ago) - A validating SQL lexer and parser with a focus on MySQL dialect.
 - [phpmyadmin/motranslator](https://github.com/phpmyadmin/motranslator) ([6.0.0](https://github.com/phpmyadmin/motranslator/releases/tag/6.0.0), 9 months ago) - Translation API for PHP using Gettext MO files
 - [phpmyadmin/shapefile](https://github.com/phpmyadmin/shapefile) ([4.0.0](https://github.com/phpmyadmin/shapefile/releases/tag/4.0.0), 9 months ago) - ESRI ShapeFile library for PHP
